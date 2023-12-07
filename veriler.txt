@@ -1,10 +1,22 @@
+
+
 Fatih Yucalar
 49
 Publications
-47,215
+47,841
 Reads
-274
+276
 Citations
+Software Development
+Process Improvement
+Software Engineering
+Algorithms
+IT Project Management
+Agile Software Development
+Unified Modeling Language
+Agile Development
+Java Programming
+Object-Oriented Programming
 
 
 
@@ -12,10 +24,20 @@ Citations
 Akın Ozcift
 31
 Publications
-19,092
+19,225
 Reads
-1,016
+1,023
 Citations
+Feature Selection
+Machine Learning
+Classification
+Feature Extraction
+Pattern Classification
+Supervised Learning
+Computational Intelligence
+Data Mining and Knowledge Discovery
+Optimization
+Pattern Recognition
 
 
 
@@ -23,21 +45,20 @@ Citations
 Kamil Akarsu
 4
 Publications
-4,148
+4,234
 Reads
 28
 Citations
-
-
-
-
-Ersin Aslan
-44
-Publications
-8,834
-Reads
-320
-Citations
+Software Programming
+Software Development
+Object-Oriented Programming
+Java Programming
+SQL
+Java Language
+HTML code programming
+SQL Programming
+CSS
+Computer Programming
 
 
 
@@ -45,32 +66,37 @@ Citations
 Emin Borandağ
 65
 Publications
-59,926
+60,513
 Reads
-311
+315
 Citations
+Software Development
+Process Improvement
+Agile Development
+Unified Modeling Language
+Software Engineering
+Object-Oriented Programming
+Java Programming
+Cloud Computing
+Social Network Analysis
+Artificial Intelligence
 
 
 
 
 Müge Erel-Ozcevik
-27
+29
 Publications
-2,557
+2,586
 Reads
-169
+171
 Citations
-
-
-
-
-yusuf özçevik
-19
-Publications
-1,274
-Reads
-67
-Citations
+Computer Networking
+QoS
+Routing
+Software Defined Network
+Network Management
+Switching
 
 
 
@@ -78,10 +104,14 @@ Citations
 elif varol altay
 26
 Publications
-2,818
+2,896
 Reads
-325
+332
 Citations
+Artificial Intelligence
+Global Optimization
+Metaheuristic Algorithm
+Data Mining
 
 
 
@@ -93,6 +123,16 @@ Publications
 Reads
 1
 Citation
+Software Development
+SQL
+Web Development
+Object-Oriented Programming
+Software Programming
+Java Programming
+Web Application Programming
+Database Programming
+Relational Databases
+Java Language
 
 
 
@@ -100,10 +140,20 @@ Citation
 Murat Osman ÜNALIR
 48
 Publications
-8,313
+8,404
 Reads
-105
+106
 Citations
+Semantic Web
+Ontology
+Reasoning
+Ontologies
+Knowledge Representation
+Semantic Web Technologies
+Knowledge Management
+Information Extraction
+Interoperability
+Logical Reasoning
 
 
 
@@ -111,21 +161,41 @@ Citations
 Yasemin TOPALOĞLU
 27
 Publications
-5,789
+5,838
 Reads
-131
+132
 Citations
+Software Engineering
+Ontologies
+Ontology
+Software Development
+Unified Modeling Language
+Software Architecture
+Java Programming
+Object-Oriented Programming
+Software
+Software Analysis
 
 
 
 
 Aybars UĞUR
-54
+55
 Publications
-13,453
+13,602
 Reads
-695
+708
 Citations
+Optimization
+Algorithms
+Combinatorial Optimization
+Simulation
+Heuristics
+Multiobjective Optimization
+Computational Intelligence
+Applied Artificial Intelligence
+Machine Learning
+Neural Networks and Artificial Intelligence
 
 
 
@@ -133,10 +203,12 @@ Citations
 Rıza Cenk ERDUR
 46
 Publications
-6,436
+6,491
 Reads
 352
 Citations
+Semantic Web
+Ontologies
 
 
 
@@ -144,10 +216,20 @@ Citations
 Şebnem BORA
 38
 Publications
-12,080
+12,253
 Reads
-175
+176
 Citations
+Agent Based Modeling
+Electrical Engineering
+Fault Tolerance
+Load Balancing
+Resource Allocation
+Modeling and Simulation
+Cloud Computing
+Microcontrollers
+Replication
+Internet of Things
 
 
 
@@ -155,10 +237,20 @@ Citations
 Özgün YILMAZ
 7
 Publications
-1,002
+1,017
 Reads
 85
 Citations
+Java Programming
+Object-Oriented Programming
+Software Development
+Artificial Intelligence
+Mobile Computing
+Semantic Web
+Knowledge Representation
+Reasoning
+Software Engineering
+Distributed Systems
 
 
 
@@ -166,21 +258,20 @@ Citations
 Özgür GÜMÜŞ
 20
 Publications
-5,423
+5,507
 Reads
 223
 Citations
-
-
-
-
-Ahmet EGESOY
-7
-Publications
-270
-Reads
-2
-Citations
+Semantic Web
+Semantic Web Technologies
+Web Service Composition
+Ontologies
+Information Extraction
+Semantic Web Analysis
+Information Integration
+Data Mining and Knowledge Discovery
+Linked Data
+Data Integration
 
 
 
@@ -188,32 +279,18 @@ Citations
 Emine SEZER
 15
 Publications
-2,518
+2,573
 Reads
 37
 Citations
-
-
-
-
-Yalçın ÇEBİ 
-6
-Publications
-635
-Reads
-36
-Citations
-
-
-
-
-Alp KUT
-82
-Publications
-35,638
-Reads
-1,462
-Citations
+Semantic Web Technologies
+Ontologies
+Knowledge Representation
+OWL
+Semantic Technologies
+Ontology Engineering
+Knowledge Engineering
+Ontology Development
 
 
 
@@ -221,10 +298,13 @@ Citations
 Gökhan DALKILIÇ
 101
 Publications
-53,152
+53,776
 Reads
-662
+669
 Citations
+Security
+NFC
+Authentication
 
 
 
@@ -232,32 +312,50 @@ Citations
 Semih UTKU
 53
 Publications
-8,507
+8,608
 Reads
-175
+180
 Citations
+Database Applications
+Data Mining and Knowledge Discovery
+Computer Graphics
+Mobile Applications
 
 
 
 
 Mehmet Hilal ÖZCANHA 
-48
+51
 Publications
-16,332
+16,700
 Reads
-133
+136
 Citations
+IT Security
+Electronics and Communication Engineering
+Information Security
+Security
+Network Security
+Computer Security
+Computer Networks Security
+Computer Networking
+Cryptography
+Network Architecture
 
 
 
 
 Feriştah Dalkılıç
-27
+28
 Publications
-26,414
+26,633
 Reads
-63
+64
 Citations
+Machine Learning
+Neural Networks and Artificial Intelligence
+Supervised Learning
+Data Mining and Knowledge Discovery
 
 
 
@@ -265,10 +363,20 @@ Citations
 Özge KART TOKMAK
 15
 Publications
-5,476
+5,511
 Reads
-48
+50
 Citations
+Machine Learning
+Python
+Big Data
+Data Mining and Knowledge Discovery
+Data Science
+Medical Informatics
+Classification
+Supervised Learning
+Clustering
+Feature Selection
 
 
 
@@ -276,10 +384,19 @@ Citations
 Göksu TÜYSÜZOĞLU
 19
 Publications
-3,622
+3,663
 Reads
-104
+105
 Citations
+Data Mining
+Machine Learning
+Pattern Recognition
+Classification
+Supervised Learning
+Feature Selection
+Feature Extraction
+Support Vector Machine
+Classifier Ensemble
 
 
 
@@ -287,10 +404,14 @@ Citations
 ÖZCAN ÖZYURT
 56
 Publications
-36,914
+37,226
 Reads
-716
+718
 Citations
+Technology Enhanced Learning
+Agent Oriented Software Engineering
+Data Science
+Educational Data Mining
 
 
 
@@ -298,10 +419,17 @@ Citations
 MUSTAFA HAKAN BOZKURT
 6
 Publications
-291
+300
 Reads
 30
 Citations
+Computer Vision
+Machine Learning
+Neural Networks and Artificial Intelligence
+Digital Image Processing
+Deep Learning
+Image Processing
+Image Analysis
 
 
 
@@ -309,21 +437,14 @@ Citations
 ASUMAN GÜNAY YILMAZ
 23
 Publications
-3,488
+3,530
 Reads
-292
+294
 Citations
-
-
-
-
-CELAL ATALAR
-2
-Publications
-110
-Reads
-1
-Citation
+Pattern Recognition
+Artificial Intelligence
+Biometrics
+Signal, Image and Video Processing
 
 
 
@@ -331,10 +452,20 @@ Citation
 ABDULLAH ELEN
 52
 Publications
-36,009
+36,576
 Reads
-178
+181
 Citations
+Advanced Machine Learning
+Image Processing
+Signal Processing
+SQL
+Algorithms
+Computational Intelligence
+Applied Artificial Intelligence
+Machine Learning
+Pattern Recognition
+Classification
 
 
 
@@ -342,10 +473,20 @@ Citations
 BUKET TOPTAŞ
 11
 Publications
-1,071
+1,076
 Reads
-48
+49
 Citations
+Machine Learning
+Classification
+Pattern Recognition
+Supervised Learning
+Feature Extraction
+Computer Vision
+Advanced Machine Learning
+Unsupervised Learning
+Image Processing
+Neural Networks and Artificial Intelligence
 
 
 
@@ -353,10 +494,13 @@ Citations
 SERHAT KILIÇARSLAN
 29
 Publications
-9,521
+9,686
 Reads
-430
+439
 Citations
+Machine Learning
+Classification
+Neural Networks and Artificial Intelligence
 
 
 
@@ -364,10 +508,12 @@ Citations
 SÜLEYMAN GÖKHAN TAŞKIN
 3
 Publications
-7,206
+7,289
 Reads
 16
 Citations
+Computer Engineering
+Computer Science and Engineering
 
 
 
@@ -375,10 +521,20 @@ Citations
 EMRE CAN KURAN
 14
 Publications
-1,591
+1,646
 Reads
-22
+23
 Citations
+Signal, Image and Video Processing
+Computer Vision
+Machine Learning
+Neural Networks and Artificial Intelligence
+Pattern Classification
+Supervised Learning
+Unsupervised Learning
+Image Recognition
+Image Processing
+Digital Signal Processing
 
 
 
@@ -386,98 +542,35 @@ Citations
 Hüseyin AKCAN
 17
 Publications
-3,328
+3,343
 Reads
 256
 Citations
+Wireless Sensor Network
+Sensor Networks
+Localization
+Algorithms
 
 
 
 
 Senem KUMOVA METİN
-48
+49
 Publications
-10,738
+10,818
 Reads
-180
+182
 Citations
-
-
-
-
-Aybars UĞUR
-54
-Publications
-13,453
-Reads
-695
-Citations
-
-
-
-
-Rıza Cenk ERDUR
-46
-Publications
-6,436
-Reads
-352
-Citations
-
-
-
-
-Şebnem BORA
-38
-Publications
-12,080
-Reads
-175
-Citations
-
-
-
-
-Özgün YILMAZ
-7
-Publications
-1,002
-Reads
-85
-Citations
-
-
-
-
-Özgür GÜMÜŞ
-20
-Publications
-5,423
-Reads
-223
-Citations
-
-
-
-
-Ahmet EGESOY
-7
-Publications
-270
-Reads
-2
-Citations
-
-
-
-
-Emine SEZER
-15
-Publications
-2,518
-Reads
-37
-Citations
+Information Extraction
+Natural Language Processing
+Text Mining
+Text Classification
+Machine Learning
+Artificial Intelligence
+Pattern Recognition
+Data Mining and Knowledge Discovery
+Social Network Analysis
+Language
 
 
 
@@ -485,10 +578,20 @@ Citations
 Ekincan Ufuktepe
 22
 Publications
-1,813
+1,836
 Reads
-41
+42
 Citations
+Java Programming
+Software Testing
+Software Analysis
+Static Analysis
+Program Analysis
+Software Quality
+Software Metrics
+Software Reliability
+Bayesian Network
+Security
 
 
 
@@ -496,10 +599,20 @@ Citations
 Kaan KURTEL
 22
 Publications
-3,349
+3,359
 Reads
 67
 Citations
+Business Process Management
+Software
+Software Architecture
+Software Development
+Business Analysis
+Requirements Analysis
+Object-Oriented Programming
+Agile Software Development
+Unified Modeling Language
+Software Programming
 
 
 
@@ -511,6 +624,10 @@ Publications
 Reads
 15
 Citations
+Computer Networking
+Information and Communication Technology
+Network Security
+Network Simulation
 
 
 
@@ -518,10 +635,18 @@ Citations
 Dindar Öz
 12
 Publications
-3,107
+3,146
 Reads
 94
 Citations
+Combinatorial Optimization
+Metaheuristic
+Heuristics
+Multiobjective Optimization
+Optimization
+Discrete Optimization
+Evolutionary Computation
+Global Optimization
 
 
 
@@ -529,10 +654,15 @@ Citations
 Kazım Erdoğdu
 5
 Publications
-302
+308
 Reads
 23
 Citations
+Genetic Algorithm
+Multiobjective Optimization
+Vehicle Routing Problem
+Evolutionary Algorithms
+Neural Networks and Artificial Intelligence
 
 
 
@@ -540,10 +670,16 @@ Citations
 Yücel Batu SALMAN
 35
 Publications
-21,225
+21,517
 Reads
 232
 Citations
+Participatory Design
+User Interface Design
+User Experience
+Ubiquitous Computing
+Multimodal Interaction
+Mobile Application Development
 
 
 
@@ -551,10 +687,14 @@ Citations
 Betül ERDOĞDU ŞAKAR
 15
 Publications
-23,097
+23,308
 Reads
-1,196
+1,206
 Citations
+Neurology
+Machine Learning
+Pattern Recognition
+Feature Extraction
 
 
 
@@ -562,10 +702,16 @@ Citations
 Tamer UÇAR
 12
 Publications
-5,993
+6,054
 Reads
-136
+137
 Citations
+Recommender Systems
+Expert Systems
+Machine Learning
+Software
+Classification
+Data Mining and Knowledge Discovery
 
 
 
@@ -573,10 +719,20 @@ Citations
 Ihab ELAFF
 11
 Publications
-1,297
+1,305
 Reads
 20
 Citations
+Signal Processing
+Digital Signal Processing
+Signal, Image and Video Processing
+Image Processing
+Digital Image Processing
+Pattern Recognition
+Biomedical Signal Processing
+Image Data Analysis
+Image Segmentation
+Computer Vision
 
 
 
@@ -584,21 +740,20 @@ Citations
 Bilal Şenol
 68
 Publications
-11,394
+11,475
 Reads
-419
+421
 Citations
-
-
-
-
-Emre Avuçlu
-31
-Publications
-8,684
-Reads
-172
-Citations
+Electrical Engineering
+MATLAB
+MATLAB Simulation
+Control Theory
+Advanced Control Theory
+Microelectronics and Semiconductor Engineering
+Robotics
+System Modeling
+System Identification
+Engineering, Applied and Computational Mathematics
 
 
 
@@ -606,21 +761,16 @@ Citations
 Atıl Emre Coşgun
 21
 Publications
-7,000
+7,137
 Reads
-57
+62
 Citations
-
-
-
-
-Dikmen Nil KOFOĞLU
-14
-Publications
-147
-Reads
-2
-Citations
+Machine Learning
+Image Processing
+agrivoltaics
+Energy Harvesting
+Controller Design
+Arduino
 
 
 
@@ -628,10 +778,18 @@ Citations
 Kemal Gökhan NALBANT
 61
 Publications
-24,541
+26,528
 Reads
-181
+190
 Citations
+Integer Programming
+Mathematical Programming
+Modeling
+Linear Programming
+Fuzzy Logic
+Linear Algebra
+Matrix Analysis
+Artificial Intelligence
 
 
 
@@ -639,43 +797,58 @@ Citations
 Zeynep ALTAN
 31
 Publications
-17,228
+17,340
 Reads
 68
 Citations
+Software Requirements Engineering
+Software Testing
+Software Engineering
+Software Development Methods
+computation theory
+Natural Language Processing
 
 
 
 
 Tofigh Allahviranloo
-438
+457
 Publications
-66,542
+67,465
 Reads
-7,710
+7,771
 Citations
+Differential Equations
+Numerical Analysis
+Applied Mathematics
+Analysis
+Mathematical Analysis
+Algebra
+Mathematical Computing
+Numerical Mathematics
+Mathematical Modelling
+Engineering, Applied and Computational Mathematics
 
 
 
 
 Bahman Arasteh Abbasabad
-84
+85
 Publications
-10,412
+10,613
 Reads
-504
+518
 Citations
-
-
-
-
-Muhammed Davud
-1
-Publication
-5
-Reads
-6
-Citations
+Cloud Computing
+Software Development
+Object-Oriented Programming
+Java Programming
+C++
+C
+Web Development
+SQL
+Web Application Programming
+Software Programming
 
 
 
@@ -683,21 +856,37 @@ Citations
 Ali Asghar Pourhaji
 27
 Publications
-10,898
+10,950
 Reads
-760
+776
 Citations
+Evolutionary Algorithms
+Software Engineering
+Software
+Genetic Algorithm
+Artificial Intelligence
+Artificial Neural Networks
+Soft Computing
+Information Extraction
+Text Mining
+Algorithms
 
 
 
 
 Amir Seyyedabbasi
-29
+30
 Publications
-15,164
+15,577
 Reads
-628
+667
 Citations
+Network
+Algorithms
+Wireless Sensor Network
+Optimization Algorithms
+Internet of Things
+Energy Efficiency
 
 
 
@@ -705,10 +894,20 @@ Citations
 Fatih SARIKOÇ
 8
 Publications
-9,310
+9,467
 Reads
 47
 Citations
+Machine Learning
+Classification
+Pattern Recognition
+Feature Extraction
+Feature Selection
+Image Processing
+C++
+Statistical Learning
+Image Data Analysis
+Digital Image Processing
 
 
 
@@ -716,10 +915,18 @@ Citations
 Abdulkadir KARACI
 64
 Publications
-29,572
+29,896
 Reads
-432
+438
 Citations
+C#
+Programming Languages
+ASP.NET
+Web Programming
+Software Programming
+Artificial Neural Networks
+Intelligent Tutoring Systems
+Machine Learning
 
 
 
@@ -727,10 +934,18 @@ Citations
 Zafer CÖMERT
 85
 Publications
-29,152
+29,426
 Reads
-3,602
+3,647
 Citations
+Machine Learning
+Biomedical Signal Processing
+Cardiotocography
+Decision Support Systems
+Electrocardiography
+Support Vector Machine
+Heart Rate
+Deep Learning
 
 
 
@@ -738,10 +953,20 @@ Citations
 Muammer TÜRKOĞLU
 42
 Publications
-18,884
+19,198
 Reads
-1,086
+1,112
 Citations
+Image Processing
+Classification
+Machine Learning
+Pattern Recognition
+Computer Vision
+Signal, Image and Video Processing
+Feature Extraction
+Advanced Machine Learning
+Feature Selection
+Supervised Learning
 
 
 
@@ -749,21 +974,32 @@ Citations
 Selçuk ÇAKMAK
 19
 Publications
-1,049
+1,064
 Reads
-185
+186
 Citations
+Quantum Information
+Quantum Physics
+Quantum Algorithms
+Quantum Entanglement
+Quantum Information Theory
+Quantum Communication
+Quantum Information Science
+Quantum Information Processing
+Quantum Control
+Quantum Spin
 
 
 
 
 Nurettin ŞENYER
-24
+10
 Publications
-3,318
+1,108
 Reads
-67
+44
 Citations
+Medical Education
 
 
 
@@ -771,10 +1007,14 @@ Citations
 Özgür TONKAL
 4
 Publications
-1,681
+1,711
 Reads
-61
+63
 Citations
+Computer Networking
+Computer Networks Security
+Software-Defined Networking
+Machine Learning
 
 
 
@@ -782,10 +1022,12 @@ Citations
 Vahit Tongur
 17
 Publications
-3,256
+3,314
 Reads
-206
+209
 Citations
+Computer Algorithm
+Computer Science and Engineering
 
 
 
@@ -793,10 +1035,15 @@ Citations
 Engin Eşme
 11
 Publications
-10,000
+10,531
 Reads
-52
+53
 Citations
+Data Mining and Knowledge Discovery
+Machine Learning
+Classification
+Pattern Recognition
+Soft Computing
 
 
 
@@ -804,10 +1051,12 @@ Citations
 Vahit Tongur
 17
 Publications
-3,256
+3,314
 Reads
-206
+209
 Citations
+Computer Algorithm
+Computer Science and Engineering
 
 
 
@@ -815,10 +1064,14 @@ Citations
 Oğuzhan Uymaz
 2
 Publications
-289
+292
 Reads
 4
 Citations
+Particle Swarm Optimization
+Algorithms
+Optimization
+Swarm Intelligence
 
 
 
@@ -826,10 +1079,13 @@ Citations
 Veysel Harun Şahin
 12
 Publications
-3,066
+3,161
 Reads
-101
+106
 Citations
+Real-Time Systems
+Software Engineering
+Java
 
 
 
@@ -837,10 +1093,20 @@ Citations
 Ünal Çavuşoğlu
 48
 Publications
-19,178
+19,488
 Reads
-1,673
+1,689
 Citations
+Network Security
+Security
+Computer Networking
+Information Security
+Computer Security
+Network Communication
+Computer Networks Security
+Data Security
+Encryption
+Applied Cryptography
 
 
 
@@ -848,10 +1114,20 @@ Citations
 Gözde Yolcu Öztel
 16
 Publications
-2,198
+2,253
 Reads
-297
+306
 Citations
+Image Processing
+Digital Signal Processing
+Signal, Image and Video Processing
+Pattern Recognition
+Machine Learning
+Feature Extraction
+Classification
+Pattern Classification
+Feature Selection
+Computer Vision
 
 
 
@@ -859,21 +1135,20 @@ Citations
 İbrahim Delibaşoğlu
 22
 Publications
-3,782
+3,857
 Reads
-60
+61
 Citations
-
-
-
-
-AHMET KARADOĞAN
-2
-Publications
-38
-Reads
-1
-Citation
+Machine Learning
+Neural Networks and Artificial Intelligence
+Classification
+Pattern Recognition
+Supervised Learning
+Computer Vision
+Feature Extraction
+Image Processing
+Advanced Machine Learning
+Signal, Image and Video Processing
 
 
 
@@ -881,10 +1156,14 @@ Citation
 SELMAN YAKUT
 11
 Publications
-552
+566
 Reads
 24
 Citations
+Network Security
+Computer Networks Security
+Security
+Wireless Security
 
 
 
@@ -892,10 +1171,15 @@ Citations
 Ali YAZICI
 79
 Publications
-70,503
+71,039
 Reads
-791
+792
 Citations
+Data Mining and Knowledge Discovery
+Cloud Computing
+E-Learning
+Artificial Intelligence
+Algorithms
 
 
 
@@ -903,10 +1187,20 @@ Citations
 Güler KALEM
 1
 Publication
-3,413
+3,422
 Reads
 40
 Citations
+Medical Informatics
+Mobile Technology
+Healthcare
+Health Informatics
+Healthcare Informatics
+Telemedicine
+Mobile Computing
+Mobile Development
+Human Centered Computing
+Information Technology
 
 
 
@@ -914,10 +1208,20 @@ Citations
 Çiğdem TURHAN
 28
 Publications
-13,209
+13,330
 Reads
-192
+195
 Citations
+Accreditation
+Software Engineering
+Cognitive Science and Artificial Thinking
+Computer Applications
+Artificial Intelligence
+Machine Translation
+Corpora
+Mobile Technology
+Language
+English
 
 
 
@@ -925,10 +1229,20 @@ Citations
 Beytullah YILDIZ
 30
 Publications
-3,130
+3,185
 Reads
-144
+148
 Citations
+Service Oriented Architecture
+Cloud Computing
+Java Programming
+Web Development
+Information Technology
+Parallel and Distributed Computing
+Data Science
+Big Data
+Machine Learning
+Deep Learning
 
 
 
@@ -936,10 +1250,14 @@ Citations
 Ali Yılmaz ÇAMURCU
 27
 Publications
-10,632
+10,751
 Reads
-288
+289
 Citations
+Image Processing
+Association Rule Mining
+Clustering
+Data Clustering
 
 
 
@@ -947,10 +1265,20 @@ Citations
 Ayşe Şima UYAR
 37
 Publications
-2,431
+2,450
 Reads
-340
+341
 Citations
+Particle Swarm Optimization
+Genetic Algorithm
+Evolutionary Computation
+Computational Intelligence
+Soft Computing
+Optimization
+Multiobjective Optimization
+Heuristics
+Simulation
+Discrete Optimization
 
 
 
@@ -958,21 +1286,35 @@ Citations
 Şerif Ali Sadık
 19
 Publications
-2,322
+2,346
 Reads
-41
+42
 Citations
+Electrical & Electronics Engineering
+Fiber Optics
+Refractometer
+Refractive Index
+Optoelectronics
+Optical Fibers
 
 
 
 
 Uğur YAYAN
-42
+43
 Publications
-9,781
+9,861
 Reads
-369
+376
 Citations
+Pattern Recognition
+Machine Learning
+Robotics
+Classification
+Feature Extraction
+Pattern Classification
+Clustering
+Robot Vision
 
 
 
@@ -980,10 +1322,20 @@ Citations
 Bora ASLAN
 18
 Publications
-5,098
+5,127
 Reads
-86
+89
 Citations
+Computer Programming
+Software Development
+Software Programming
+SQL
+C
+Java Programming
+Web Development
+Java Language
+HTML code programming
+SQL Programming
 
 
 
@@ -991,21 +1343,13 @@ Citations
 Doğan ÜNAL
 5
 Publications
-568
+583
 Reads
 8
 Citations
-
-
-
-
-Murat Olcay ÖZCAN
-14
-Publications
-152
-Reads
-7
-Citations
+Matrix Theory
+Geometry
+Differential Geometry
 
 
 
@@ -1013,10 +1357,14 @@ Citations
 Selcuk Yazar
 12
 Publications
-1,109
+1,134
 Reads
-37
+39
 Citations
+Deep Learning
+Internet of Things
+Linux
+Context-Awareness
 
 
 
@@ -1024,10 +1372,20 @@ Citations
 Talha Burak ALAKUŞ
 31
 Publications
-5,285
+5,402
 Reads
-822
+836
 Citations
+DNA
+DNA Sequencing
+Bioinformatics and Computational Biology
+Computational Biology
+RNA
+Sequencing
+Genomics
+Genetic Analysis
+Sequence Analysis
+Microarray Analysis
 
 
 
@@ -1039,6 +1397,12 @@ Publications
 Reads
 0
 Citations
+Technology Enhanced Learning
+Game-Based Learning
+Distance Learning
+Computers in Education
+E-Learning
+Educational Technology
 
 
 
@@ -1046,10 +1410,20 @@ Citations
 RESUL DAŞ
 119
 Publications
-81,980
+83,813
 Reads
-2,747
+2,784
 Citations
+Network Security
+Security
+Cyber Security
+Information Security
+Computer Networking
+Information and Communication Technology
+Network Architecture
+Network Communication
+Networking
+Feature Selection
 
 
 
@@ -1057,10 +1431,14 @@ Citations
 ERKAN TANYILDIZI
 36
 Publications
-15,758
+15,933
 Reads
-503
+515
 Citations
+Image Processing
+Feature Extraction
+Classification
+Machine Learning
 
 
 
@@ -1068,10 +1446,13 @@ Citations
 MURAT KARABATAK
 69
 Publications
-21,088
+21,737
 Reads
-1,488
+1,512
 Citations
+Association Rules
+Data Mining
+Classification
 
 
 
@@ -1079,10 +1460,15 @@ Citations
 ÖZAL YILDIRIM
 89
 Publications
-133,698
+134,278
 Reads
-7,256
+7,358
 Citations
+Electrocardiogram
+Electrocardiography
+Atrial Fibrillation
+Myocardial Infarction
+Prediction
 
 
 
@@ -1090,10 +1476,14 @@ Citations
 YAMAN AKBULUT
 49
 Publications
-21,641
+21,854
 Reads
-777
+786
 Citations
+Machine Learning
+Artificial Intelligence
+Pattern Recognition
+Computer Science
 
 
 
@@ -1101,10 +1491,15 @@ Citations
 YUNUS SANTUR
 33
 Publications
-8,610
+8,762
 Reads
-288
+291
 Citations
+Machine Learning
+Deep Learning
+Web 2.0
+MongoDB
+Ruby on Rails
 
 
 
@@ -1112,32 +1507,38 @@ Citations
 MURAT AYDOĞAN
 21
 Publications
-8,795
+8,984
 Reads
-92
+98
 Citations
+Machine Learning
+Deep Learning
+Natural Language Processing
+Big Data
+Text Processing
+Data Mining
+Information Security
 
 
 
 
 FERHAT UÇAR
-40
+41
 Publications
-12,397
+12,573
 Reads
-947
+954
 Citations
-
-
-
-
-Serdar Aydın
-22
-Publications
-2,685
-Reads
-492
-Citations
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Data Science
+Python
+Data Visualization
+Industrial Automation
+Electrical Engineering
+MATLAB Simulation
+Renewable Energy Technologies
 
 
 
@@ -1145,20 +1546,6905 @@ Citations
 Abdullah Ammar Karcıoğlu
 10
 Publications
-2,300
+2,310
+Reads
+52
+Citations
+Natural Language Processing
+Machine Learning
+Artificial Intelligence
+Bioinformatics and Computational Biology
+Algorithms
+
+
+
+
+Mustafa ORAL	
+85
+Publications
+61,930
+Reads
+482
+Citations
+Pattern Recognition
+Image Data Analysis
+Computational Intelligence
+Machine Learning
+Algorithms
+Advanced Machine Learning
+Artificial Intelligence
+Signal, Image and Video Processing
+Unsupervised Learning
+Neural Networks and Artificial Intelligence
+
+
+
+
+Fatih ABUT 	
+59
+Publications
+10,684
+Reads
+218
+Citations
+Network Management
+Wireless Computing
+Information and Communication Technology
+Computer Networking
+Network Architecture
+Network Communication
+Network Security
+Routing
+Network Simulation
+Network Administration
+
+
+
+
+Kemal Fidanboylu
+53
+Publications
+83,039
+Reads
+598
+Citations
+Optical Fibers
+Materials
+Modeling
+Material Characterization
+Optoelectronics
+Photonics
+Applied Optics
+Optical Physics
+Composites
+Optics and Photonics
+
+
+
+
+Ahmet Emir Dirik
+48
+Publications
+8,325
+Reads
+1,176
+Citations
+Pattern Recognition
+Image Processing
+Electronic Engineering
+Signal Processing
+Imaging
+Signal, Image and Video Processing
+Security
+Cryptography
+Software Development
+Information Security
+
+
+
+
+Pınar Kırcı 
+80
+Publications
+17,650
+Reads
+357
+Citations
+Network Architecture
+Computer Networking
+QoS
+Network Communication
+Information and Communication Technology
+Network Performance Analysis
+Network Simulation
+Network technology
+Network Engineering
+Wireless Computing
+
+
+
+
+Gıyasettin Özcan
+25
+Publications
+8,278
+Reads
+148
+Citations
+Music Information Retrieval
+Algorithm Design
+Algorithms
+DNA Sequencing
+Information Retrieval
+Music
+Music Theory
+
+
+
+
+Metin Bilgin 
+33
+Publications
+11,109
+Reads
+139
+Citations
+C++
+Object-Oriented Programming
+C#
+C
+SQL
+PHP
+SQL Programming
+CSS
+Web Application Programming
+Database Programming
+
+
+
+
+Murtaza Cicioğlu
+68
+Publications
+17,365
+Reads
+518
+Citations
+Computer Networking
+Wireless Communications
+Software-Defined Networking
+Machine Learning
+Artificial Neural Network
+Deep Learning
+
+
+
+
+Burak Berk Üstündağ
+93
+Publications
+26,606
+Reads
+629
+Citations
+Signal Processing
+Neural Networks
+Artificial Intelligence
+Data Processing
+Big Data
+Prediction
+Earthquake Prediction
+Time Series Analysis
+Entropy
+Cognitive Radio
+
+
+
+
+Feza Buzluca
+40
+Publications
+2,072
+Reads
+456
+Citations
+Object Oriented Analysis & Design
+Object-Oriented Programming
+
+
+
+
+Şerif Bahtiyar
+46
+Publications
+16,721
+Reads
+334
+Citations
+Security
+Network Security
+Information Security
+Computer Security
+Computer Networks Security
+IT Security
+Data Security
+Cyber Security
+Internet Security
+Information Systems Security
+
+
+
+
+Tolga Ovatman
+46
+Publications
+9,134
+Reads
+333
+Citations
+Multicore
+Software
+Design Patterns
+
+
+
+
+Gökhan Seçinti
+21
+Publications
+1,925
+Reads
+245
+Citations
+Network
+LTE
+Testbeds
+Cellular Networks
+
+
+
+
+Mehmet Tahir Sandıkkaya
+31
+Publications
+4,240
+Reads
+184
+Citations
+Election Studies
+Applied Cryptography
+Information Security
+Computer Security
+Computer Networks Security
+Cyber Security
+Internet Security
+Information Systems Security
+Cloud Computing
+Computer Networking
+
+
+
+
+Dilara Torunoğlu-Selamet
+10
+Publications
+6,065
+Reads
+159
+Citations
+Natural Language Processing
+Machine Learning
+Text Classification
+Text Analysis
+Advanced Machine Learning
+Classification
+Sentiment Analysis
+Supervised Learning
+Text Analytics
+Data preparation
+
+
+
+
+Erke Arıbaş
+22
+Publications
+10,510
+Reads
+35
+Citations
+Biomechanics
+Artificial Intelligence
+Machine Learning
+Biomechanical Engineering
+Biomaterials
+Classification
+Computational Intelligence
+Neural Networks and Artificial Intelligence
+Signal, Image and Video Processing
+Digital Image Processing
+
+
+
+
+Evren Dağlarlı
+32
+Publications
+12,254
+Reads
+159
+Citations
+Robotics
+Computer Vision
+Machine Learning
+Pattern Recognition
+Image Processing
+MATLAB
+Python
+Artificial Intelligence
+C#
+Mechatronics
+
+
+
+
+Ömer Özyıldırım
+7
+Publications
+4,700
+Reads
+16
+Citations
+Computational Chemistry
+Atomistic Monte Carlo Simulations
+C
+Python
+Machine Learning
+Reaction Prediction
+C++
+Web Application Development
+
+
+
+
+Doğu Sırt
+6
+Publications
+195
+Reads
+0
+Citations
+Human-Computer Interaction
+Data Visualization
+Computer Graphics and Animation
+Visual Analytics
+Exploratory Data Analysis
+Artificial Intelligence
+
+
+
+
+SELEN AYAS
+35
+Publications
+3,436
+Reads
+226
+Citations
+Machine Learning
+Pattern Recognition
+Feature Extraction
+Computer Vision
+Image Processing
+Pattern Classification
+Image Segmentation
+Machine Vision
+Image Analysis
+3D Vision
+
+
+
+
+TUĞRUL ÇAVDAR
+67
+Publications
+14,541
+Reads
+344
+Citations
+Information and Communication Technology
+Electronics and Communication Engineering
+Communication & Signal Processing
+Digital Signal Processing
+Cellular Communication
+Signal Processing for Communication
+Radio Communication
+Signal Processing
+Coding
+FFT
+
+
+
+
+Derviş Karaboğa
+133
+Publications
+91,993
+Reads
+37,047
+Citations
+Optimization Algorithms
+Optimization
+Genetic Algorithm
+Swarm Intelligence
+Algorithms
+Heuristics
+Evolutionary Computation
+Global Optimization
+Particle Swarm Optimization
+Optimization Modeling
+
+
+
+
+Şahin EMRAH
+49
+Publications
+8,018
+Reads
+425
+Citations
+Differential Equations
+Mathematical Modelling
+Control Theory
+Fuzzy Systems
+Algorithms
+Soft Computing
+Artificial Intelligence
+Fuzzy Control
+Modeling and Simulation
+Fuzzy Mathematics
+
+
+
+
+Refik Samet
+85
+Publications
+46,709
+Reads
+849
+Citations
+MATLAB
+Parallel and Distributed Computing
+Virtualization
+C
+Signal Processing
+Image Processing
+Parallel Programming
+Computer Networking
+Mapping
+High Performance Computing
+
+
+
+
+Semra gündüç
+37
+Publications
+6,523
+Reads
+80
+Citations
+Scaling
+Algorithms
+Dynamics
+Zoology
+Evolutionary Biology
+
+
+
+
+Murat OSMANOĞLU
+12
+Publications
+1,576
 Reads
 47
 Citations
+Security
+Cryptography
+Information Security
+Applied Cryptography
 
 
 
 
-Esra Odabaş Yıldırım
+AHMET SERTBAŞ
+80
+Publications
+45,393
+Reads
+1,343
+Citations
+Support Vector Machine
+Electronic Engineering
+Classification
+
+
+
+
+ÖZGÜR CAN TURNA
+18
+Publications
+863
+Reads
+76
+Citations
+Mobile Computing
+Network Simulation
+QoS
+Network
+Network Architecture
+Switching
+Software Engineering
+Mobile Application Development
+Web Development
+Network Simulator NS-2
+
+
+
+
+ŞAFAK DURUKAN ODABAŞI
+16
+Publications
+6,945
+Reads
+33
+Citations
+Computer Networking
+Information and Communication Technology
+Network Communication
+Routing
+QoS
+Wireless Computing
+Network Simulation
+Network Performance Analysis
+Wireless Mesh Networks
+Data Security
+
+
+
+
+ATAKAN KURT
+29
+Publications
+9,614
+Reads
+407
+Citations
+HTML/XML
+Text Mining
+Machine Learning
+
+
+
+
+DERYA YILTAŞ KAPLAN
+41
+Publications
+4,024
+Reads
+111
+Citations
+Computer Networking
+Network Communication
+Routing
+QoS
+Network Performance Analysis
+
+
+
+
+SELÇUK SEVGEN
+38
+Publications
+14,871
+Reads
+404
+Citations
+Image Processing
+Machine Learning
+Neural Networks and Artificial Intelligence
+Computer Vision
+Signal, Image and Video Processing
+Pattern Recognition
+Feature Extraction
+Supervised Learning
+Classification
+Advanced Machine Learning
+
+
+
+
+EMEL ARSLAN
+24
+Publications
+5,298
+Reads
+159
+Citations
+Image Processing
+Signal Processing
+Classification
+Pattern Recognition
+Signal, Image and Video Processing
+Digital Signal Processing
+Feature Extraction
+Feature Selection
+Machine Learning
+Computer Vision
+
+
+
+
+Ferhat Bozkurt
+33
+Publications
+11,020
+Reads
+153
+Citations
+Image Processing
+Computer Vision
+Classification
+Machine Learning
+Pattern Recognition
+Feature Extraction
+Object Recognition
+Feature Selection
+Supervised Learning
+Neural Networks and Artificial Intelligence
+
+
+
+
+Mete Yağanoğlu
+33
+Publications
+15,413
+Reads
+205
+Citations
+Pattern Recognition
+Classification
+Human-Computer Interaction
+Wearable Computing
+Wearable Electronic Devices
+Wearable Sensors
+Data Mining
+
+
+
+
+Ahmet Coşkunçay
+23
+Publications
+22,525
+Reads
+315
+Citations
+Software Engineering
+Business Process Modeling
+Requirements Analysis
+Business Process Management
+Software Development
+Process Improvement
+
+
+
+
+Bilal Usanmaz
+9
+Publications
+1,844
+Reads
+22
+Citations
+Artificial Intelligence
+Computational Intelligence
+Clustering
+Artificial Neural Networks
+Machine Learning
+Neural Networks and Artificial Intelligence
+Biomechanics
+Mechatronics
+Applied Artificial Intelligence
+Internet of Things
+
+
+
+
+Faruk Baturalp Günay
+24
+Publications
+7,816
+Reads
+89
+Citations
+Wireless Sensor Network
+Wireless Communications
+Computer Networks
+
+
+
+
+Gülşah Tümüklü Özyer
+7
+Publications
+1,012
+Reads
+15
+Citations
+Sentiment Analysis
+Machine Learning
+Text Classification
+Classification
+Supervised Learning
+Pattern Recognition
+Statistical Data Analysis
+Feature Extraction
+
+
+
+
+Toygar Akgün
+35
+Publications
+6,179
+Reads
+424
+Citations
+Digital Signal Processing
+Signal Processing
+Signal, Image and Video Processing
+Image Processing
+Pattern Recognition
+Computer Vision
+Feature Extraction
+Machine Learning
+Classification
+Neural Networks and Artificial Intelligence
+
+
+
+
+Ayşe Mutlu Derya
+3
+Publications
+216
+Reads
+0
+Citations
+Game Theory and Decision Theory
+Decision Analysis
+Cooperative Games
+
+
+
+
+Mehmet Tan
+39
+Publications
+1,701
+Reads
+244
+Citations
+Bioinformatics
+Machine Learning
+Data Mining
+
+
+
+
+Emin Erkan Korkmaz
+42
+Publications
+7,572
+Reads
+762
+Citations
+Algorithms
+Heuristics
+Natural Language Processing
+Artificial Intelligence
+Clustering
+Data Clustering
+Optimization
+Machine Learning
+Computational Intelligence
+Data Mining
+
+
+
+
+Şebnem Baydere
+81
+Publications
+8,659
+Reads
+491
+Citations
+Routing
+Wireless Sensor Network
+Cloud Computing
+Parallel and Distributed Computing
+Computer Networking
+Network Architecture
+Network Simulation
+Wireless Computing
+QoS
+Internet of Things
+
+
+
+
+Dionysis Goularas
+14
+Publications
+3,076
+Reads
+284
+Citations
+Orthodontics
+3D Modeling
+3D
+3D-Imaging
+3D Reconstruction
+Image Processing
+3D Vision
+Volume Rendering
+Visualization
+
+
+
+
+Tacha Serif
+51
+Publications
+22,903
+Reads
+370
+Citations
+Interaction
+Distance Learning
+User Experience
+Usability
+User Studies
+Human Machine Interaction
+Prototyping
+Human Centered Computing
+Mobile Computing
+Web Usability
+
+
+
+
+Hasan Temurtaş
+69
+Publications
+13,540
+Reads
+799
+Citations
+Optimization
+Computational Intelligence
+Machine Learning
+Pattern Recognition
+Classification
+Neural Networks and Artificial Intelligence
+Feature Extraction
+Applied Artificial Intelligence
+Image Processing
+Pattern Classification
+
+
+
+
+Gürcan Yavuz
+15
+Publications
+1,052
+Reads
+133
+Citations
+C++
+Java Programming
+C
+SQL
+Linux environment
+
+
+
+
+Ali Akcayol
+124
+Publications
+42,995
+Reads
+1,224
+Citations
+Cloud Computing
+Computer Networking
+Network Architecture
+Network Communication
+Routing
+Networking
+Network technology
+Network Security
+Computer Networks Security
+Security
+
+
+
+
+Şeref Sağıroğlu
+269
+Publications
+130,139
+Reads
+3,909
+Citations
+Intelligent Systems
+Machine Learning
+Electric Machines
+Robotics
+Computational Intelligence
+Pattern Recognition
+Applied Artificial Intelligence
+
+
+
+
+Yılmaz Atay
+18
+Publications
+1,855
+Reads
+116
+Citations
+Algorithms
+Network Science
+Network Theory
+Machine Learning
+Algorithm Analysis
+Network Analysis
+Bioinformatics
+Complex Networks
+Algorithmic Information Theory
+Bio-Inspired Computing
+
+
+
+
+Feyza Yıldırım Okay
+30
+Publications
+20,886
+Reads
+555
+Citations
+Fog Computing
+Energy Conservation
+Sensor Networks
+Computer Networking
+Network Security
+Network Communication
+Mobile Cloud Computing
+Routing
+Wireless Sensor Network
+
+
+
+
+Veli BAYSAL
+33
+Publications
+4,450
+Reads
+536
+Citations
+Signal Processing
+Digital Signal Processing
+Electrical Engineering
+Signal Analysis
+Neuron
+Synapses
+
+
+
+
+Hakan ÖCAL
+7
+Publications
+1,172
+Reads
+32
+Citations
+Image Segmentation
+Classification
+Image Recognition
+Neural Networks and Artificial Intelligence
+Supervised Learning
+Unsupervised Learning
+Image Processing
+Feature Extraction
+Computer Vision
+Deep Learning
+
+
+
+
+Furkan AYAZ
+5
+Publications
+158
+Reads
+20
+Citations
+Machine Learning
+Classification
+Pattern Recognition
+Feature Extraction
+Computer Vision
+Image Processing
+Pattern Classification
+Feature Selection
+Signal, Image and Video Processing
+Digital Image Processing
+
+
+
+
+Muharrem Tolga SAKALLI
+38
+Publications
+14,322
+Reads
+177
+Citations
+Finite Fields
+Encryption
+Cryptography
+IT Security
+
+
+
+
+Aydın CARUS
+35
+Publications
+4,455
+Reads
+88
+Citations
+IP
+Data Structures
+FPGAs
+Compression
+Language
+
+
+
+
+AKHAN   AKBULUT
+63
+Publications
+44,018
+Reads
+805
+Citations
+Cloud Computing
+Software Engineering
+Model-Driven Architecture
+microservices
+Software Security
+Distributed Computing
+Machine Learning
+
+
+
+
+İzmir Ekonomi Üniversitei
+2
+Publications
+426
+Reads
+0
+Citations
+Economic Development
+Economic Policy Analysis
+International Development
+Sustainable Economic Development
+Sustainable Development Strategies
+Econometric Analysis
+Applied Econometrics
+Growth Economics
+Rural Development
+International Finance
+
+
+
+
+Turhan TUNALI
+58
+Publications
+23,700
+Reads
+488
+Citations
+Video Coding
+Network
+Video Compression
+Video Processing
+Signal, Image and Video Processing
+Network Architecture
+Computer Networking
+Multimedia signal processing
+
+
+
+
+Kutluhan Erol
+30
+Publications
+4,252
+Reads
+2,098
+Citations
+Artificial Intelligence
+Algorithms
+Manufacturing
+Simulation
+Modeling and Simulation
+Information and Communication Technology
+Engineering, Applied and Computational Mathematics
+Optimization
+Heuristics
+Computational Intelligence
+
+
+
+
+Okan Yaman
+5
+Publications
+148
+Reads
+15
+Citations
+Computer Networking
+Information and Communication Technology
+Network Security
+Network Simulation
+
+
+
+
+Resul KARA
+34
+Publications
+56,846
+Reads
+310
+Citations
+Network Security
+Computer Networking
+Information Security
+Computer Networks Security
+Network Communication
+Routing
+Information and Communication Technology
+Network Management
+Network technology
+Wireless Security
+
+
+
+
+Pakize ERDOĞMUŞ
+62
+Publications
+36,704
+Reads
+420
+Citations
+Algorithms
+Optimization
+Heuristics
+Linear Programming
+Combinatorial Optimization
+Artificial Intelligence
+Artificial Neural Networks
+Mathematical Programming
+Simulation
+Computer Science Education
+
+
+
+
+Ali ÇALHAN
+98
+Publications
+14,685
+Reads
+852
+Citations
+Wireless Communications
+Wireless Networks
+
+
+
+
+Muhammed Enes BAYRAKDAR
+56
+Publications
+5,298
+Reads
+523
+Citations
+Network
+Computer Networking
+Network Communication
+Information and Communication Technology
+Channel Estimation
+Networking
+Network Simulation
+Network Performance Analysis
+Wireless Networks
+Computer Engineering
+
+
+
+
+Zehra KARAPINAR ŞENTÜRK
+29
+Publications
+14,079
+Reads
+348
+Citations
+Computer Networks
+Teaching and Learning
+Data Mining and Knowledge Discovery
+Digital Image Processing
+Artificial Intelligence
+AI-based disease diagnosis
+Decision Support Systems
+Artificial Neural Networks
+
+
+
+
+Enver KÜÇÜKKÜLAHLI
+12
+Publications
+8,005
+Reads
+96
+Citations
+C#
+Visual Basic
+Computer Programming
+Web Development
+
+
+
+
+Serdar KIRIŞOĞLU
+3
+Publications
+756
+Reads
+1
+Citation
+C++
+Image Processing
+C
+Object-Oriented Programming
+SQL
+Software Development
+HTML code programming
+Computer Programming
+Web Application Programming
+CSS
+
+
+
+
+Hüseyin BODUR
+13
+Publications
+39,057
+Reads
+25
+Citations
+Java Programming
+SQL
+HTML code programming
+Software Development
+Web Development
+Object-Oriented Programming
+Software Programming
+C++
+C
+SQL Programming
+
+
+
+
+Tufan TURACI
+40
+Publications
+2,129
+Reads
+181
+Citations
+Heuristics
+Discrete Mathematics
+Graph Τheory
+Combinatorics
+Combinatorial Optimization
+Applied Mathematics
+Algorithms
+Numerical Analysis
+Optimization
+Network
+
+
+
+
+Şevket Umut ÇAKIR
+5
+Publications
+296
+Reads
+0
+Citations
+Java Programming
+C++
+C
+SQL
+Computer Programming
+Database Programming
+Linux environment
+Relational Databases
+Object-Oriented Programming
+Java Language
+
+
+
+
+Yılmaz KILIÇASLAN
+13
+Publications
+1,848
+Reads
+81
+Citations
+Natural Language Processing
+
+
+
+
+Denizhan DEMIRKOL
+21
+Publications
+7,559
+Reads
+85
+Citations
+Information Technology
+Information Technology Management
+Human-Computer Interaction
+Human Computer Interface
+Applied Artificial Intelligence
+Medical Bioinformatics
+Clinical Bioinformatics
+
+
+
+
+Hamdullah Şevli
+31
+Publications
+2,481
+Reads
+338
+Citations
+Functional Equations
+Mathematical Analysis
+
+
+
+
+Rıdvan Saraçoğlu
+31
+Publications
+5,983
+Reads
+287
+Citations
+Microcontroller Programming
+Information Technology
+Applied Artificial Intelligence
+Advanced Machine Learning
+
+
+
+
+Murat Canayaz 
+27
+Publications
+7,722
+Reads
+334
+Citations
+Optimization
+Heuristics
+Multiobjective Optimization
+Evolutionary Computation
+Computational Intelligence
+Soft Computing
+Image Compression
+Algorithms
+Data Clustering
+Computer Vision
+
+
+
+
+Ebubekir Seyyarer
+11
+Publications
+1,279
+Reads
+42
+Citations
+Machine Learning
+Pattern Recognition
+C++
+Classification
+Object-Oriented Programming
+C
+Software Development
+Software Programming
+SQL
+Image Processing
+
+
+
+
+murat koca
+24
+Publications
+7,677
+Reads
+11
+Citations
+Machine Learning
+Classification
+Neural Networks and Artificial Intelligence
+Image Processing
+Data Mining and Knowledge Discovery
+Machine Intelligence
+Signal, Image and Video Processing
+Cyber Security
+Deep Learning
+Computer Engineering
+
+
+
+
+ Taner Uçkan
+20
+Publications
+2,803
+Reads
+134
+Citations
+Information and Communication Technology
+Information Technology
+
+
+
+
+Hakan Ayral
+11
+Publications
+1,327
+Reads
+29
+Citations
+Deep Learning
+Natural Language Processing
+Embedded Development
+Dynamical Systems
+Measure Theory
+Information Theory
+Parallel Computing
+Automata Theory
+Genetic Programming
+GPGPU
+
+
+
+
+Murat Orhun
+18
+Publications
+12,566
+Reads
+37
+Citations
+Natural Language Processing
+Machine Translation
+Parallel and Distributed Computing
+Genetic Algorithm
+Information Extraction
+Corpus Linguistics
+Word Sense Disambiguation
+
+
+
+
+Cafer ÇALIŞKAN
+12
+Publications
+374
+Reads
+25
+Citations
+Combinatorics
+Graph Algorithms
+Graph Τheory
+Graphs
+Designs
+Discrete Mathematics
+Algebra
+Graph Drawing
+Geometry
+Coding Theory
+
+
+
+
+Taner ARSAN
+55
+Publications
+58,061
+Reads
+369
+Citations
+Mobile Application Development
+Indoor Positioning
+Embedded System Design
+Smart System Design
+Machine Learning
+Deep Learning
+
+
+
+
+Aslı BAY
+16
+Publications
+338
+Reads
+103
+Citations
+Cryptography
+Security
+Authentication
+Encryption
+Cryptology
+
+
+
+
+İREM ERSÖZ KAYA
+31
+Publications
+4,060
+Reads
+205
+Citations
+C
+C++
+Image Processing
+Machine Learning
+Classification
+Pattern Recognition
+Feature Extraction
+Supervised Learning
+Computer Vision
+Neural Networks and Artificial Intelligence
+
+
+
+
+ŞULE YÜCELBAŞ
+27
+Publications
+4,125
+Reads
+247
+Citations
+Feature Selection
+Artificial Neural Networks
+Classification
+Pattern Recognition
+Feature Extraction
+Machine Learning
+Pattern Classification
+Supervised Learning
+Neural Networks and Artificial Intelligence
+Computational Intelligence
+
+
+
+
+ÜMMÜGÜLSÜM MENGUTAYCI
+2
+Publications
+214
+Reads
+0
+Citations
+Neural Networks and Artificial Intelligence
+Machine Learning
+Classification
+Advanced Machine Learning
+Feature Extraction
+Recognition
+Unsupervised Learning
+Supervised Learning
+Machine Intelligence
+
+
+
+
+Hidayet TAKÇI
+50
+Publications
+16,760
+Reads
+390
+Citations
+Database Design
+Supervised machine learning
+Anomaly Detection
+Computer Aided Diagnosis
+Web 3.0
+Statistical Natural Language Processing
+Machine Learning
+
+
+
+
+Ahmet Gürkan YÜKSEK
+19
+Publications
+8,607
+Reads
+181
+Citations
+Machine Learning
+Computer Vision
+Pattern Recognition
+Cognitive Science and Artificial Thinking
+Supervised Learning
+
+
+
+
+Abdulkadir ŞEKER
+26
+Publications
+33,772
+Reads
+229
+Citations
+Machine Learning
+Classification
+Image Processing
+Neural Networks and Artificial Intelligence
+Deep Learning
+Natural Language Processing
+Big Data
+
+
+
+
+Fırat YELKUVAN
+4
+Publications
+2,911
+Reads
+7
+Citations
+Cloud Computing
+Security
+Data Mining
+Internet of Things
+Image Processing
+Sensors
+Deep Learning
+
+
+
+
+Okan Üniversitesi
+4
+Publications
+973
+Reads
+57
+Citations
+Academic Writing
+Communication
+Communication Theory
+Research Methodology
+Teaching
+Teaching and Learning
+Examination
+General Economics
+Social Media
+
+
+
+
+Semih Bilgen
+95
+Publications
+20,303
+Reads
+567
+Citations
+Sensor Networks
+Cloud Computing
+Wireless Sensor Network
+Software Project Management
+Software Quality Management
+Monitoring
+Software Engineering
+Routing
+Software Development
+Modeling
+
+
+
+
+Kerem Par
 6
 Publications
-723
+733
 Reads
-26
+38
 Citations
+Parallel Processing
+Real-Time Systems
+Parallel and Distributed Computing
+Algorithms
+GPU Programming
+Compute Unified Device Architecture
+
+
+
+
+MEHMET ACI
+16
+Publications
+3,835
+Reads
+95
+Citations
+Neural Networks
+Data Clustering
+Artificial Neural Networks
+Machine Learning
+Computational Intelligence
+Classification
+Neural Networks and Artificial Intelligence
+Advanced Machine Learning
+Supervised Learning
+
+
+
+
+VOLKAN YAMAÇLI
+12
+Publications
+1,911
+Reads
+272
+Citations
+Power Systems
+Algorithms
+Optimization
+Heuristics
+Electrical Power Engineering
+Power Systems Simulation
+Power Systems Analysis
+HVDC
+Power Electronics
+
+
+
+
+Ahmet Haşim YURTTAKAL
+37
+Publications
+6,221
+Reads
+164
+Citations
+Applied Artificial Intelligence
+
+
+
+
+Hasan Kalyoncu
+41
+Publications
+15,430
+Reads
+551
+Citations
+Water Quality
+Diatoms
+Environmental Impact Assessment
+Environmental Pollution
+Water Analysis
+Aquatic Ecology
+Freshwater Ecology
+Environmental Analysis
+Environmental Monitoring
+Water Quality Monitoring
+
+
+
+
+Burhan PEKTAŞ
+1
+Publication
+5
+Reads
+0
+Citations
+Mathematical Modelling
+Mathematical Analysis
+Numerical Analysis
+Computational Mathematics
+Numerical Modeling
+
+
+
+
+Ihab ELAFF
+11
+Publications
+1,305
+Reads
+20
+Citations
+Signal Processing
+Digital Signal Processing
+Signal, Image and Video Processing
+Image Processing
+Digital Image Processing
+Pattern Recognition
+Biomedical Signal Processing
+Image Data Analysis
+Image Segmentation
+Computer Vision
+
+
+
+
+Bekir Taner DİNÇER
+31
+Publications
+9,321
+Reads
+189
+Citations
+Statistical Analysis
+Data Analysis
+Machine Learning
+Advanced Machine Learning
+Engineering, Applied and Computational Mathematics
+Pattern Recognition
+Language
+Signal, Image and Video Processing
+Modeling and Simulation
+Applied Linguistics
+
+
+
+
+Enis KARAARSLAN
+136
+Publications
+117,881
+Reads
+808
+Citations
+Network Security
+Network
+Security
+Information Privacy
+IT Security
+Computer Networking
+Blockchain
+Disaster Management
+Cyber Security
+Data Science
+
+
+
+
+Zeynep Filiz EREN
+5
+Publications
+1,151
+Reads
+49
+Citations
+Data Visualization
+Data Analysis
+Data Mining
+Data Science
+Text Mining
+Applied Biostatistics
+
+
+
+
+Batman Üniversitesi
+11
+Publications
+1,993
+Reads
+4
+Citations
+Automobile Engineering
+
+
+
+
+ Necmettin Sezgin 
+41
+Publications
+5,799
+Reads
+679
+Citations
+Sleep Apnea
+OSA
+Sleep Medicine
+Electroencephalography.
+Apnea
+Artificial Neural Networks
+Sleep Disorders
+Classification
+
+
+
+
+ Abidin Çalışkan  
+49
+Publications
+15,295
+Reads
+131
+Citations
+Biometric
+Computer Vision
+Machine Learning
+Signal, Image and Video Processing
+
+
+
+
+ Cihat Özaydın  
+16
+Publications
+4,687
+Reads
+98
+Citations
+Photovoltaics
+Solar Energy Materials
+Electrical Characterization
+Device Physics
+Optoelectronics
+Solid State Physics
+Semiconductor Electronics
+Semiconductor Physics
+Semiconductor
+Thin Films
+
+
+
+
+ Hafzullah İş  
+11
+Publications
+2,359
+Reads
+27
+Citations
+Data Mining and Knowledge Discovery
+
+
+
+
+NUH ALPASLAN
+21
+Publications
+2,740
+Reads
+207
+Citations
+Feature Extraction
+Pattern Recognition
+Soft Computing
+KNN
+Programming in MATLAB
+Classification
+Machine Learning
+Advanced Machine Learning
+
+
+
+
+İsmail Rakıp KARAŞ
+107
+Publications
+39,061
+Reads
+559
+Citations
+Remote Sensing
+Geographic Information System
+Navigation
+Geoinformation
+Mapping
+Spatial Analysis
+Databases
+Artificial Intelligence
+Spatial Statistics
+Routing
+
+
+
+
+ Kasım ÖZACAR
+12
+Publications
+8,330
+Reads
+102
+Citations
+Human Machine Interaction
+Interaction
+3D
+User Experience
+Usability
+Virtual Reality
+User Studies
+Tracking
+Software Engineering
+Augmented Reality
+
+
+
+
+Nesrin AYDIN ATASOY
+11
+Publications
+9,417
+Reads
+30
+Citations
+Traffic Flow
+Intelligent Transportation Systems
+
+
+
+
+ İlhami Muharrem ORAK
+34
+Publications
+17,799
+Reads
+79
+Citations
+Industrial Computing
+Database Design
+Modeling and Simulation
+
+
+
+
+Kürşat Mustafa KARAOĞLAN
+9
+Publications
+938
+Reads
+8
+Citations
+Classification
+Machine Learning
+Data Science
+Supervised Learning
+Advanced Machine Learning
+Unsupervised Learning
+Computational Intelligence
+Neural Networks and Artificial Intelligence
+Feature Extraction
+Applied Artificial Intelligence
+
+
+
+
+Yasin ORTAKÇI
+26
+Publications
+10,427
+Reads
+57
+Citations
+Java Programming
+Software Development
+Object-Oriented Programming
+
+
+
+
+Ayşe Nur ALTINTAŞ TANKÜL
+7
+Publications
+670
+Reads
+6
+Citations
+Image Processing
+Digital Image Processing
+
+
+
+
+Furkan SABAZ
+3
+Publications
+1,017
+Reads
+16
+Citations
+Machine Learning
+
+
+
+
+Ferhat ATASOY
+26
+Publications
+12,375
+Reads
+65
+Citations
+C++
+Computer Programming
+Data Visualization
+Java Programming
+Software Development
+C#
+Linux environment
+Application Development
+Human-Computer Interaction
+Renewable Energy
+
+
+
+
+DUYGU ÇELİK ERTUĞRUL
+1
+Publication
+220
+Reads
+2
+Citations
+Econometric Analysis
+Economic Development
+
+
+
+
+EKREM VAROĞLU
+23
+Publications
+2,815
+Reads
+152
+Citations
+Pattern Recognition
+Text Mining
+Computational Biology
+Bioinformatics
+Natural Language Processing
+Machine Learning
+Advanced Machine Learning
+Algorithms
+Bioinformatics and Computational Biology
+Data Mining
+
+
+
+
+HADİ IŞIK AYBAY
+26
+Publications
+3,129
+Reads
+170
+Citations
+Neural Networks
+Ad Hoc Networks
+Neural Networks and Artificial Intelligence
+Computer Networking
+Network Communication
+Wireless Computing
+Cellular Networks
+
+
+
+
+HAKAN ALTINÇAY
+56
+Publications
+4,202
+Reads
+700
+Citations
+Classification
+Machine Learning
+Pattern Recognition
+Pattern Classification
+Statistical Learning
+Statistical Pattern Recognition
+
+
+
+
+ADNAN ACAN
+59
+Publications
+7,539
+Reads
+608
+Citations
+Heuristics
+Scheduling
+Multiobjective Optimization
+Combinatorial Optimization
+Optimization
+Genetic Algorithm
+Evolutionary Computation
+
+
+
+
+YILTAN BİTİRİM
+47
+Publications
+24,346
+Reads
+308
+Citations
+Search Engines
+Information Retrieval
+Information Extraction
+Web Mining
+Text Mining
+Machine Learning
+Text Classification
+Data Clustering
+
+
+
+
+FELIX OLANREWAJU BABALOLA
+11
+Publications
+1,308
+Reads
+67
+Citations
+Image Processing
+Feature Extraction
+Pattern Classification
+
+
+
+
+Turgay Tugay BİLGİN
+36
+Publications
+12,074
+Reads
+194
+Citations
+Data Mining
+Clustering
+Unsupervised Learning
+Social Network Analysis
+Databases
+Data Mining and Knowledge Discovery
+
+
+
+
+Volkan ALTUNTAŞ
+13
+Publications
+1,729
+Reads
+31
+Citations
+Machine Learning
+Supervised Learning
+
+
+
+
+Zeynep BARUT
+2
+Publications
+29
+Reads
+0
+Citations
+Machine Learning
+Neural Networks and Artificial Intelligence
+
+
+
+
+Gökhan ŞENGÜL
+42
+Publications
+21,510
+Reads
+272
+Citations
+EEG
+Cognitive Neuroscience
+Neuroimaging
+Kalman Filtering
+Functional Neuroimaging
+Brain Imaging
+Brain
+Event-Related Potentials
+Brain Connectivity
+Cognitive Neuropsychology
+
+
+
+
+Meltem ERYILMAZ
+31
+Publications
+25,127
+Reads
+200
+Citations
+Information and Communication Technology
+Technology Enhanced Learning
+Online Education
+Distance Education
+Blended Learning
+Instructional Technology
+Lifelong Learning
+Computers in Education
+Constructivism
+Artificial Intelligence
+
+
+
+
+Güzin TÜRKMEN
+7
+Publications
+6,345
+Reads
+37
+Citations
+Data Mining and Knowledge Discovery
+
+
+
+
+Damla TOPALLI
+31
+Publications
+7,357
+Reads
+361
+Citations
+Software Engineering
+Database Design
+
+
+
+
+Abdullah Asım YILMAZ
+17
+Publications
+10,464
+Reads
+154
+Citations
+Computer Vision
+Machine Learning
+Pattern Recognition
+Image Processing
+Feature Extraction
+Classification
+Supervised Learning
+Pattern Classification
+Security
+Information Security
+
+
+
+
+ŞADİ EVREN ŞEKER
+67
+Publications
+45,589
+Reads
+618
+Citations
+Signal Processing
+Computational Intelligence
+Machine Learning
+Data Mining and Knowledge Discovery
+Advanced Machine Learning
+Pattern Recognition
+Classification
+Object-Oriented Programming
+Feature Extraction
+Accounting
+
+
+
+
+YOSEF BADALI
+20
+Publications
+2,117
+Reads
+364
+Citations
+Semiconductor Device Physics
+Photovoltaics
+Thin Film Deposition
+Thin Films and Nanotechnology
+Optoelectronics
+Material Characterization
+Thin Film Technology
+Thin Film Fabrication
+Materials
+Nanomaterials
+
+
+
+
+UĞUR   ERKAN
+63
+Publications
+27,531
+Reads
+1,339
+Citations
+image encryption
+Chaotic system
+Image Denoising
+Image Processing
+Supervised machine learning
+Optimization Methods
+
+
+
+
+AYŞE   ELDEM
+9
+Publications
+1,478
+Reads
+75
+Citations
+Computational Intelligence
+Machine Learning
+Neural Networks and Artificial Intelligence
+Classification
+Supervised Learning
+Unsupervised Learning
+Data Mining and Knowledge Discovery
+Image Processing
+Computer Vision
+Signal, Image and Video Processing
+
+
+
+
+MURAT KARAKOYUN
+19
+Publications
+6,818
+Reads
+130
+Citations
+Machine Learning
+Classification
+Supervised Learning
+Unsupervised Learning
+Pattern Recognition
+Pattern Classification
+Feature Selection
+Advanced Machine Learning
+Image Processing
+Applied Artificial Intelligence
+
+
+
+
+MEHMET HACIBEYOĞLU
+23
+Publications
+9,382
+Reads
+217
+Citations
+Algorithms
+Classification
+Feature Selection
+Machine Learning
+Artificial Intelligence
+Pattern Recognition
+Advanced Machine Learning
+Supervised Learning
+Computational Intelligence
+Clustering
+
+
+
+
+ABDULLAH ERDAL TÜMER
+23
+Publications
+15,590
+Reads
+278
+Citations
+Training
+Wireless Sensor Network
+Artificial Neural Networks
+Internet of Things
+
+
+
+
+AYŞE MERVE ACILAR
+15
+Publications
+2,593
+Reads
+333
+Citations
+Evolutionary Algorithms
+Artificial Immune System
+Fuzzy Systems
+Artificial Intelligence
+Data Structures
+
+
+
+
+FERDA NUR ARICI
+2
+Publications
+1,660
+Reads
+5
+Citations
+Machine Learning
+
+
+
+
+Taha ETEM
+15
+Publications
+1,593
+Reads
+43
+Citations
+Digital Signal Processing
+Signal, Image and Video Processing
+Encryption
+
+
+
+
+Öznur Şifa AKÇAM
+2
+Publications
+70
+Reads
+0
+Citations
+Deep Learning
+Artificial Intelligence
+
+
+
+
+Selim SÜRÜCÜ
+7
+Publications
+421
+Reads
+5
+Citations
+Image Processing
+Machine Learning
+Computer Vision
+Classification
+Neural Networks and Artificial Intelligence
+Supervised Learning
+Advanced Machine Learning
+Unsupervised Learning
+Feature Selection
+Data Mining and Knowledge Discovery
+
+
+
+
+Erinç ALBEY
+32
+Publications
+9,707
+Reads
+272
+Citations
+Algorithm Development
+Heuristics
+Scheduling
+Production Planning
+Optimization
+Simulation
+Clinical Trials
+Mathematical Modelling
+C#
+Statistical Data Analysis
+
+
+
+
+Ethem ALPAYDIN
+148
+Publications
+48,820
+Reads
+13,377
+Citations
+Pattern Recognition
+Learning
+Machine Learning
+Data Mining
+Artificial Intelligence
+Artificial Neural Networks
+Neural Networks
+Advanced Machine Learning
+Classification
+Feature Selection
+
+
+
+
+Reyhan AYDOĞAN
+98
+Publications
+22,423
+Reads
+1,065
+Citations
+Artificial Intelligence
+Negotiation
+Conflict Resolution
+Peace & Conflict Studies
+Advanced Machine Learning
+Cognitive Science and Artificial Thinking
+Machine Learning
+Data Mining
+Pattern Recognition
+Data Mining and Knowledge Discovery
+
+
+
+
+Furkan KIRAÇ 
+46
+Publications
+5,833
+Reads
+1,159
+Citations
+RDF
+Classification
+
+
+
+
+Olcay Taner YILDIZ
+136
+Publications
+49,525
+Reads
+1,529
+Citations
+Machine Learning
+Pattern Recognition
+Classification
+Feature Selection
+Supervised Learning
+Advanced Machine Learning
+Pattern Classification
+Unsupervised Learning
+Data Mining and Knowledge Discovery
+Neural Networks and Artificial Intelligence
+
+
+
+
+Ali Yılmaz ÇAMURCU
+27
+Publications
+10,751
+Reads
+289
+Citations
+Image Processing
+Association Rule Mining
+Clustering
+Data Clustering
+
+
+
+
+Ayşe Şima UYAR
+37
+Publications
+2,450
+Reads
+341
+Citations
+Particle Swarm Optimization
+Genetic Algorithm
+Evolutionary Computation
+Computational Intelligence
+Soft Computing
+Optimization
+Multiobjective Optimization
+Heuristics
+Simulation
+Discrete Optimization
+
+
+
+
+ADEM ALPASLAN ALTUN
+37
+Publications
+14,592
+Reads
+231
+Citations
+Artificial Neural Networks
+Optimization
+Machine Learning
+Pattern Recognition
+Neural Networks and Artificial Intelligence
+Feature Selection
+Image Processing
+Computer Vision
+Object Recognition
+Signal, Image and Video Processing
+
+
+
+
+HUMAR KAHRAMANLI ÖRNEK 
+45
+Publications
+22,361
+Reads
+875
+Citations
+Classification
+Artificial Neural Networks
+Data Mining
+Machine Learning
+Neural Networks and Artificial Intelligence
+Data Mining and Knowledge Discovery
+Soft Computing
+Pattern Recognition
+
+
+
+
+tahir sağ
+21
+Publications
+1,300
+Reads
+228
+Citations
+Pattern Recognition
+Evolutionary Algorithms
+Engineering, Applied and Computational Mathematics
+Differential Evolution
+Algorithms
+
+
+
+
+Zafer Albayrak
+34
+Publications
+9,401
+Reads
+145
+Citations
+Wireless Networks
+Network Simulation
+Data Security
+
+
+
+
+Suaib Akhter
+19
+Publications
+2,640
+Reads
+121
+Citations
+Cryptography
+Information Security
+Security
+Data Security
+IT Security
+Network Security
+Cyber Security
+Internet Security
+Information Systems Security
+Computer Networking
+
+
+
+
+Ekin Ekinci
+74
+Publications
+33,497
+Reads
+322
+Citations
+Natural Language Processing
+Classification Algorithms
+Text Mining
+Sentiment Analysis
+Machine Learning
+Data Mining
+Unsupervised Learning
+Data Mining and Knowledge Discovery
+Deep Learning
+
+
+
+
+Fatih Varçın
+10
+Publications
+936
+Reads
+178
+Citations
+Computer Programming
+SQL
+SQL Programming
+Web Programming
+Database Development
+Python
+
+
+
+
+Selman Hızal
+20
+Publications
+21,377
+Reads
+70
+Citations
+Wireless Sensor Network
+Virtual Reality
+Image Processing
+Electronic Engineering
+3D Modeling
+E-Learning
+Technology Enhanced Learning
+Online Learning
+Cyber Security
+Deep Learning
+
+
+
+
+Eser SERT
+48
+Publications
+6,658
+Reads
+653
+Citations
+Machine Learning
+Image Processing
+Feature Extraction
+Pattern Recognition
+Classification
+Computer Vision
+Feature Selection
+Signal, Image and Video Processing
+Pattern Classification
+Advanced Machine Learning
+
+
+
+
+Soner KIZILOLUK
+12
+Publications
+880
+Reads
+62
+Citations
+Optimization Algorithms
+Metaheuristic Algorithm
+Algorithms
+Data Mining
+
+
+
+
+Atınç YILMAZ
+40
+Publications
+2,475
+Reads
+126
+Citations
+Artificial Intelligence
+Machine Learning
+Applied Artificial Intelligence
+Neural Networks and Artificial Intelligence
+Supervised Learning
+Unsupervised Learning
+Data Mining and Knowledge Discovery
+Machine Intelligence
+KNN
+Image Processing
+
+
+
+
+Aykut GÜVEN
+1
+Publication
+132
+Reads
+4
+Citations
+Machine Learning
+Neural Networks and Artificial Intelligence
+Pattern Recognition
+Classification
+Supervised Learning
+Unsupervised Learning
+Pattern Classification
+
+
+
+
+gülsüm akkuzu kaya
+5
+Publications
+73
+Reads
+0
+Citations
+Online Social Networks
+Security
+Social Networks
+Information Security
+Cyber Security
+Data Security
+Information Systems Security
+
+
+
+
+ayla kayabaş
+3
+Publications
+355
+Reads
+15
+Citations
+Supervised Learning
+Neural Networks and Artificial Intelligence
+
+
+
+
+Güney GÜRSEL
+22
+Publications
+5,352
+Reads
+88
+Citations
+Theoretical Computer Science
+Discrete Mathematics
+Fuzzy Logic
+Medical Informatics
+Health Informatics
+Healthcare Informatics
+EMR
+Interoperability
+Electronic Health Records
+eHealth
+
+
+
+
+Ramazan KOCAOĞLU
+7
+Publications
+1,691
+Reads
+66
+Citations
+Network Security
+Computer Networking
+Information Security
+Computer Networks Security
+Network Communication
+IT Security
+Networking
+Information and Communication Technology
+Cloud Computing
+Security
+
+
+
+
+Arif Furkan MENDİ
+43
+Publications
+37,366
+Reads
+257
+Citations
+Technology Management
+Project Management
+Innovation Management
+Blockchain
+Digital Twin
+Emerging Technologies
+Artificial Intelligence
+
+
+
+
+Levent Korkmaz
+61
+Publications
+6,558
+Reads
+383
+Citations
+Oncology
+Combination Drug Therapy
+Neural Networks and Artificial Intelligence
+Clinical Decision Support
+Advanced Statistics
+
+
+
+
+Hüseyin Ozan Tekin
+1
+Publication
+25
+Reads
+7
+Citations
+Modern History
+Historical Analysis
+Teaching and Learning
+social study
+History Edu
+history learning
+Social Studies Education
+
+
+
+
+sefa tuncer
+10
+Publications
+249
+Reads
+9
+Citations
+Blockchain
+Data Security
+Cryptology
+Data Encryption
+Cryptography
+Data Hiding
+Steganography
+
+
+
+
+rıdvan yayla
+11
+Publications
+2,730
+Reads
+21
+Citations
+Machine Learning
+Deep Learning
+Image Processing
+Natural Language Processing
+3D Computer Graphics
+
+
+
+
+hakan üçgün
+29
+Publications
+15,478
+Reads
+113
+Citations
+Embedded Systems
+Unmanned Aerial Vehicles
+Robotics
+Programming in C
+Sensors
+Internet of Things
+Microcontroller Programming
+Microcontrollers
+Embedded Programming
+Web Programming
+
+
+
+
+uğur yüzgeç
+134
+Publications
+68,941
+Reads
+917
+Citations
+Yeasts
+Software Engineering
+Electronic Engineering
+Soft Computing
+Computer Engineering
+Embedded Systems
+Control Systems Engineering
+Computational Intelligence
+Yeast Fermentation
+
+
+
+
+vedat marttin
+10
+Publications
+3,453
+Reads
+9
+Citations
+ISO 27001
+5G
+4G
+IDS
+Computer Networks
+PSN
+D2D Communication
+
+
+
+
+Mustafa Zahid Gürbüz
+10
+Publications
+1,845
+Reads
+130
+Citations
+Genetic Algorithm
+Evolutionary Computation
+Optimization
+Particle Swarm Optimization
+Multiobjective Optimization
+Heuristics
+Combinatorial Optimization
+Evolutionary Algorithms
+Optimization Algorithms
+Algorithm Development
+
+
+
+
+İsmail Şuayip GÜLOĞLU
+58
+Publications
+1,894
+Reads
+155
+Citations
+Group Theory
+Representation Theory
+Algebra
+Discrete Mathematics
+
+
+
+
+Aysun GÜRAN
+11
+Publications
+2,736
+Reads
+91
+Citations
+Classification
+Machine Learning
+Pattern Recognition
+Feature Extraction
+Data Mining and Knowledge Discovery
+Supervised Learning
+Unsupervised Learning
+Data Clustering
+Advanced Machine Learning
+Feature Selection
+
+
+
+
+Yasemin BAKIR
+7
+Publications
+1,419
+Reads
+19
+Citations
+Differential Equations
+Fixed Point Theory
+Numerical Analysis
+Finite-Difference Schemes
+Complex Analysis
+Fourier Analysis
+Finite Difference
+Partial Differential Equations
+Applied Mathematics
+Analysis
+
+
+
+
+Fuat AKAL
+34
+Publications
+2,580
+Reads
+357
+Citations
+Grid Computing
+Online Analytical Processing
+Information Science
+Big Data
+Digital Libraries
+Databases
+
+
+
+
+Ebru AKÇAPINAR SEZER
+122
+Publications
+39,828
+Reads
+3,487
+Citations
+Landslides
+Data Mining
+Decision Trees
+Fuzzy Logic
+Clustering
+ANFIS
+Prediction
+
+
+
+
+Harun ARTUNER
+35
+Publications
+5,924
+Reads
+192
+Citations
+Algorithms
+MCITP
+Routing
+Network Optimization
+Artificial Intelligence
+Minerals
+Artificial Neural Networks
+Network Administration
+CISCO Networking
+Decision Trees
+
+
+
+
+Murat AYDOS
+67
+Publications
+54,234
+Reads
+574
+Citations
+Network Security
+Security
+Information Security
+Computer Networks Security
+IT Security
+Computer Security
+Cyber Security
+Wireless Security
+Internet Security
+Cryptography
+
+
+
+
+Tunca DOĞAN
+67
+Publications
+31,017
+Reads
+18,884
+Citations
+Proteins
+Machine Learning
+Unsupervised Learning
+Classification
+Algorithms
+Prediction
+Statistical Learning
+Bioinformatics and Computational Biology
+Biomedical Science
+Data Science
+
+
+
+
+Pınar DUYGULU ŞAHİN
+128
+Publications
+27,835
+Reads
+5,361
+Citations
+Pattern Recognition
+Object Recognition
+Image Processing
+Computer Vision
+Classification
+Machine Learning
+Feature Extraction
+Signal, Image and Video Processing
+Unsupervised Learning
+Supervised Learning
+
+
+
+
+Burkay GENÇ
+29
+Publications
+9,576
+Reads
+200
+Citations
+Graph Drawing
+Computational Geometry
+Algorithms
+Discrete Mathematics
+Exploratory Data Analysis
+Data Mining and Knowledge Discovery
+Social Network Analysis
+
+
+
+
+Ebru GÖKALP
+67
+Publications
+91,747
+Reads
+870
+Citations
+Information Technology
+Business Process Modeling
+Information System Management
+Business Process Management
+Requirements Analysis
+Cloud Computing
+Information Management
+Process Improvement
+Research Paper Writing
+Case Studies
+
+
+
+
+Sevil ŞEN
+63
+Publications
+26,734
+Reads
+1,473
+Citations
+Network Security
+System Security
+IT Security
+Security
+Machine Learning
+Artificial Intelligence
+Classification
+Genetic Algorithm
+Network
+Computational Intelligence
+
+
+
+
+Selin NACAKLI
+9
+Publications
+995
+Reads
+34
+Citations
+Video Processing
+Computer Networking
+Network Architecture
+QoS
+Network Communication
+Network Simulation
+Routing
+Networking
+Network Management
+Network technology
+
+
+
+
+Erkan ZERGEROĞLU
+132
+Publications
+15,205
+Reads
+2,917
+Citations
+Automation
+MATLAB Simulation
+Control Theory
+Automation & Robotics
+Mechatronics
+Robotics
+Advanced Control Theory
+Systems Engineering
+Electrical Engineering
+Mobile Robotics
+
+
+
+
+Habil KALKAN
+47
+Publications
+21,836
+Reads
+385
+Citations
+Machine Learning
+Pattern Recognition
+Classification
+Supervised Learning
+Image Processing
+Signal Processing
+Neural Networks and Artificial Intelligence
+Signal, Image and Video Processing
+Advanced Machine Learning
+Feature Extraction
+
+
+
+
+ELMAS BURCU MAMAK EKİNCİ
+11
+Publications
+4,292
+Reads
+44
+Citations
+Statistics
+
+
+
+
+ÇAĞATAY BERKE ERDAŞ
+24
+Publications
+4,218
+Reads
+256
+Citations
+Machine Learning
+Feature Extraction
+Pattern Recognition
+Classification
+Supervised Learning
+Advanced Machine Learning
+Neural Networks and Artificial Intelligence
+Data Mining and Knowledge Discovery
+Signal, Image and Video Processing
+Signal Processing
+
+
+
+
+HAZEL YÜCEL
+8
+Publications
+315
+Reads
+6
+Citations
+Mathematical Modelling
+Engineering, Applied and Computational Mathematics
+Modeling and Simulation
+inverse source problem
+Inverse Problems
+Partial Differential Equations
+Photoacoustics
+Thermoacoustics
+TACT - thermoacoustic computed tomography
+
+
+
+
+Ahmet Zengin
+65
+Publications
+20,706
+Reads
+987
+Citations
+Wireless Sensor Network
+Simulation
+Wireless Communications
+Algorithm Development
+Simulation Modeling
+Artificial Intelligence
+Algorithms
+Modeling and Simulation
+Network
+Modeling
+
+
+
+
+Celal Çeken
+30
+Publications
+15,181
+Reads
+616
+Citations
+Wireless Sensor Network
+OPNET Modeler
+Security
+
+
+
+
+Cüneyt Bayılmış
+24
+Publications
+7,506
+Reads
+177
+Citations
+Image Processing
+
+
+
+
+Kayhan Ayar
+4
+Publications
+621
+Reads
+9
+Citations
+Software Development
+Qt4
+Object-Oriented Programming
+C++
+C
+Computer Programming
+Software Programming
+C#
+Computer Science Education
+
+
+
+
+Serap Çakar Kaman
+23
+Publications
+11,186
+Reads
+207
+Citations
+Pattern Recognition
+Computer Vision
+
+
+
+
+Sümeyye Kaynak
+8
+Publications
+3,245
+Reads
+62
+Citations
+Machine Learning
+Pattern Recognition
+Classification
+Advanced Machine Learning
+Feature Extraction
+Supervised Learning
+Feature Selection
+Neural Networks and Artificial Intelligence
+Unsupervised Learning
+Data Mining and Knowledge Discovery
+
+
+
+
+Ahmet Şanslı
+3
+Publications
+283
+Reads
+8
+Citations
+Cloud Computing
+Information Technologies
+Information and Communication Technology
+Software Development
+Network Communication
+IT Security
+Information Technology
+Information Security
+Security
+Network Security
+
+
+
+
+Nur Banu Oğur
+6
+Publications
+340
+Reads
+13
+Citations
+Information and Communication Technology
+Electronics and Communication Engineering
+Information Technology
+Signal Processing for Communication
+
+
+
+
+Feyza Çerezci
+8
+Publications
+2,532
+Reads
+13
+Citations
+Deep Learning
+Machine Learning
+Neural Networks and Artificial Intelligence
+Computer Vision
+Advanced Machine Learning
+
+
+
+
+İPEK ABASIKELEŞ TURGUT
+25
+Publications
+3,659
+Reads
+64
+Citations
+Wireless Sensor Network
+Clustering Algorithms
+
+
+
+
+SERTAN ALKAN
+24
+Publications
+2,802
+Reads
+204
+Citations
+Fractional Calculus
+Differential Equations
+Numerical Analysis
+Engineering, Applied and Computational Mathematics
+Numerical Mathematics
+Applied Analysis
+
+
+
+
+YAKUP KUTLU
+150
+Publications
+62,294
+Reads
+1,326
+Citations
+Pattern Recognition
+Image Processing
+Classification
+Computer Vision
+Machine Learning
+Feature Extraction
+Supervised Learning
+Signal Processing
+Advanced Machine Learning
+Neural Networks and Artificial Intelligence
+
+
+
+
+LEVENT KARACAN
+28
+Publications
+3,553
+Reads
+897
+Citations
+Image Processing
+Computer Vision
+Images
+Machine Vision
+Digital Image Processing
+Image Analysis
+Image Editing
+Image Enhancement
+Machine Learning
+Signal, Image and Video Processing
+
+
+
+
+BATUHAN KARADAĞ
+2
+Publications
+147
+Reads
+7
+Citations
+Artificial Intelligence
+Machine Learning
+Computer Vision
+Computer Programming
+
+
+
+
+Gökhan DALKILIÇ
+101
+Publications
+53,781
+Reads
+670
+Citations
+Security
+NFC
+Authentication
+
+
+
+
+Semih UTKU
+53
+Publications
+8,608
+Reads
+180
+Citations
+Database Applications
+Data Mining and Knowledge Discovery
+Computer Graphics
+Mobile Applications
+
+
+
+
+Mehmet Hilal ÖZCANHAN
+51
+Publications
+16,708
+Reads
+136
+Citations
+IT Security
+Electronics and Communication Engineering
+Information Security
+Security
+Network Security
+Computer Security
+Computer Networks Security
+Computer Networking
+Cryptography
+Network Architecture
+
+
+
+
+Feriştah DALKILIÇ
+28
+Publications
+26,633
+Reads
+64
+Citations
+Machine Learning
+Neural Networks and Artificial Intelligence
+Supervised Learning
+Data Mining and Knowledge Discovery
+
+
+
+
+Özge KART TOKMAK
+15
+Publications
+5,511
+Reads
+50
+Citations
+Machine Learning
+Python
+Big Data
+Data Mining and Knowledge Discovery
+Data Science
+Medical Informatics
+Classification
+Supervised Learning
+Clustering
+Feature Selection
+
+
+
+
+Göksu TÜYSÜZOĞLU
+19
+Publications
+3,663
+Reads
+105
+Citations
+Data Mining
+Machine Learning
+Pattern Recognition
+Classification
+Supervised Learning
+Feature Selection
+Feature Extraction
+Support Vector Machine
+Classifier Ensemble
+
+
+
+
+Erdem Acar
+111
+Publications
+24,133
+Reads
+1,574
+Citations
+Safety
+Reliability
+Reliability Analysis
+Structural Analysis
+Probabilistic Risk Analysis
+Finite Element Analysis
+Structural Reliability
+Construction
+Mechanical Engineering
+Stress Analysis
+
+
+
+
+Teyfik Demir
+94
+Publications
+22,759
+Reads
+788
+Citations
+Biomechanics
+Sports Injuries
+Musculoskeletal Disorders
+Fracture
+Hip
+Arthroplasty
+Knee Surgery
+Knee Injuries
+Trauma Surgery
+Sport Biomechanics
+
+
+
+
+Nuri Durlu
+9
+Publications
+27,484
+Reads
+64
+Citations
+Microstructure
+Mechanical Properties
+Material Characterization
+Heat Treatment
+Materials Processing
+Advanced Materials
+Metallurgical Engineering
+Mechanical Testing
+Fracture Mechanics
+Failure Analysis
+
+
+
+
+Hüseyin Enes Salman
+27
+Publications
+4,407
+Reads
+225
+Citations
+Finite Element Analysis
+Finite Element Modeling
+Mechanical Properties
+Computational Fluid Dynamics
+Mechanical Testing
+Cardiovascular System
+Cardiovascular Disease
+Arteries
+Sound
+Vibration
+
+
+
+
+Cihan Tekoğlu
+32
+Publications
+6,769
+Reads
+1,093
+Citations
+Mechanical Properties
+Finite Element Analysis
+Stress Analysis
+Finite Element Modeling
+Mechanics of Materials
+Mechanical Behavior of Materials
+Structural Analysis
+Materials
+Engineering, Applied and Computational Mathematics
+Microstructure
+
+
+
+
+Mustafa Kemal APALAK
+125
+Publications
+9,834
+Reads
+1,892
+Citations
+Stress Analysis
+Mechanical Properties
+Finite Element Analysis
+Finite Element Modeling
+Solid Mechanics
+FE Analysis
+Mechanics of Materials
+Structural Analysis
+Mechanical Behavior of Materials
+Mechanical Testing
+
+
+
+
+Munise Didem DEMİRBAŞ
+33
+Publications
+2,422
+Reads
+217
+Citations
+Mechanics of Materials
+Finite Element Analysis
+Mechanical Properties
+Mechanical Behavior of Materials
+Stress Analysis
+Finite Element Modeling
+Structural Analysis
+Design Engineering
+Structural Dynamics
+Engineering, Applied and Computational Mathematics
+
+
+
+
+Halit Yaşar
+25
+Publications
+30,988
+Reads
+1,148
+Citations
+Thermal Engineering
+Engineering Thermodynamics
+Combustion Analysis
+Automobile Engineering
+Energy Engineering
+Applied Thermodynamics
+Renewable Energy Technologies
+Energy Conversion
+Waste Heat Recovery
+Renewable Energy and Environment Protection
+
+
+
+
+Mehmet Fırat
+97
+Publications
+42,615
+Reads
+965
+Citations
+Mechanical Properties
+Finite Element Analysis
+Finite Element Modeling
+FE Analysis
+Mechanics of Materials
+Solid Mechanics
+Stress Analysis
+Mechanical Behavior of Materials
+Mechanical Testing
+Production
+
+
+
+
+Nezaket Parlak
+28
+Publications
+1,955
+Reads
+217
+Citations
+Computational Fluid Dynamics
+Heat Transfer
+Thermodynamics
+
+
+
+
+Recep Kozan
+9
+Publications
+5,163
+Reads
+122
+Citations
+Robot Control
+Robotics
+Automation & Robotics
+Modeling
+Systems Dynamics
+
+
+
+
+Ahmet Çağatay Çilingir
+16
+Publications
+3,569
+Reads
+122
+Citations
+Contact Mechanics
+Finite Element Modeling
+Friction
+Mechanical Properties
+Computational Mechanics
+Wear Testing
+Lubrication
+
+
+
+
+Akın Oğuz Kaptı
+11
+Publications
+8,360
+Reads
+166
+Citations
+Plastics
+Polymer Processing
+
+
+
+
+Seçil Ekşi
+24
+Publications
+7,812
+Reads
+453
+Citations
+Finite Element Analysis
+Mechanical Properties
+Finite Element Method
+Mechanical Behavior of Materials
+Materials Testing
+Materials
+Materials Engineering
+Mechanical Engineering
+Corrosion
+Composites
+
+
+
+
+Ufuk Durmaz
+20
+Publications
+5,220
+Reads
+54
+Citations
+Heat Transfer
+Fluid Mechanics
+Heat Exchangers
+Thermal Engineering
+Convection
+Computational Fluid Dynamics
+CFD Simulation
+Engineering Thermodynamics
+Numerical Simulation
+FLUENT
+
+
+
+
+Yaşar Kahraman
+18
+Publications
+972
+Reads
+86
+Citations
+Coating
+Corrosion Testing
+Corrosion
+
+
+
+
+ Elif Eker Kahveci
+9
+Publications
+1,213
+Reads
+185
+Citations
+Simulation
+Model Development
+Energy Storage
+Optimization
+Modeling
+Modeling and Simulation
+Simulation Modeling
+Computer Modeling
+Optimization Modeling
+Numerical Optimization
+
+
+
+
+İbrahim Kutay Yılmazçoban
+17
+Publications
+8,180
+Reads
+73
+Citations
+Composites
+Finite Element Analysis
+Mechanical Testing
+Mechanical Properties
+Composite Material
+Mechanical Behavior of Materials
+Mechanics of Materials
+Biomechanics
+Mechanical Engineering
+Finite Element Method
+
+
+
+
+Muaz Kemerli
+7
+Publications
+601
+Reads
+38
+Citations
+Finite Element Analysis
+Structural Vibration
+FLUENT
+Computational Fluid Dynamics
+Fluid Mechanics
+Numerical Simulation
+CFD Simulation
+Numerical Modeling
+Engineering, Applied and Computational Mathematics
+Finite Element Modeling
+
+
+
+
+Muhammet Muaz Yalçın
+12
+Publications
+598
+Reads
+61
+Citations
+Mechanical Properties
+Mechanical Behavior of Materials
+Mechanical Testing
+Microstructure
+Mechanics of Materials
+Metals
+Finite Element Analysis
+Heat Treatment
+Failure Analysis
+Materials Testing
+
+
+
+
+Sunal Ahmet Parasız
+14
+Publications
+914
+Reads
+174
+Citations
+Materials
+Microstructure
+Mechanical Properties
+Material Characterization
+Mechanical Testing
+Mechanical Behavior of Materials
+Materials Processing
+Mechanics of Materials
+Advanced Materials
+Material Characteristics
+
+
+
+
+Lale Canan Dülger
+78
+Publications
+123,043
+Reads
+842
+Citations
+Mechatronics
+Control Systems
+Electromechanics
+Mechanical Engineering
+Actuators
+Control Systems Engineering
+Control Techniques
+Intelligent Control
+Robotics
+
+
+
+
+Fehmi Görkem Üçtuğ
+24
+Publications
+9,098
+Reads
+403
+Citations
+Energy Conservation
+Energy Saving
+Energy Engineering
+Renewable Energy Technologies
+Energy Efficiency in Building
+Energy Conversion
+Power Generation
+Engineering Thermodynamics
+Heat Exchangers
+Energy
+
+
+
+
+Yiğit ERÇAYHAN
+14
+Publications
+2,773
+Reads
+4
+Citations
+Steel
+Mechanical Properties
+Microstructure
+Mechanical Behavior of Materials
+Alloys
+Metals
+Casting
+Mechanical Testing
+Aluminum Alloys
+Magnesium Alloys
+
+
+
+
+Murat TÜRKAN
+6
+Publications
+883
+Reads
+28
+Citations
+Numerical modeling of welding
+Material Characterization
+Welding
+Numerical Modeling
+Fatigue of welded constructions
+
+
+
+
+Harun Kemal ÖZTÜRK
+95
+Publications
+53,237
+Reads
+2,835
+Citations
+Fluid Mechanics
+Computational Fluid Dynamics
+Power Generation
+Engineering, Applied and Computational Mathematics
+CFD Simulation
+Engineering Thermodynamics
+Mechanical Properties
+Modeling and Simulation
+Numerical Analysis
+Renewable Energy Technologies
+
+
+
+
+Özler KARAKAŞ
+42
+Publications
+5,289
+Reads
+595
+Citations
+Mechanical Properties
+Metals
+Materials Processing
+Materials
+Mechanical Behavior of Materials
+Materials Testing
+Welding
+Failure Analysis
+High Temperature Materials
+Design Engineering
+
+
+
+
+Recep YURTSEVEN
+8
+Publications
+1,003
+Reads
+20
+Citations
+Materials Processing
+Microstructure
+Materials
+Materials Testing
+Heat Treatment
+
+
+
+
+Erdinç Şahin ÇONKUR
+18
+Publications
+3,061
+Reads
+711
+Citations
+Robotics
+Microsoft .NET
+
+
+
+
+Veysel ALKAN
+4
+Publications
+291
+Reads
+16
+Citations
+Design
+Optimization
+Structural Analysis
+Mechanical Vibrations
+Machine Design
+
+
+
+
+Özkan ÖZBEK
+49
+Publications
+28,648
+Reads
+363
+Citations
+Finite Element Analysis
+Solid Mechanics
+Stress Analysis
+Mechanics of Materials
+Polymers
+Composite Material
+
+
+
+
+Okyar KAYA
+4
+Publications
+159
+Reads
+30
+Citations
+Fluid Mechanics
+Numerical Simulation
+Computational Fluid Dynamics
+Computational Fluid Mechanics
+Turbulence
+Engineering Thermodynamics
+Heat Exchangers
+FLUENT
+Numerical Modeling
+Numerical Analysis
+
+
+
+
+Gülay YAKAR
+14
+Publications
+1,909
+Reads
+56
+Citations
+Heat Transfer
+Fluid Mechanics
+Fluid
+Turbulence
+Convection
+Heat Exchangers
+Absorption
+
+
+
+
+Osman YELER
+4
+Publications
+266
+Reads
+20
+Citations
+Engineering Thermodynamics
+Thermal Engineering
+Mechanical Engineering
+
+
+
+
+RECEP BURKAN
+41
+Publications
+5,080
+Reads
+200
+Citations
+Robotics
+Robust Control
+Adaptive Control
+Robot Control
+Control Theory
+Systems Dynamics
+System Dynamics Modeling
+Stability Analysis
+System Modeling
+Stability
+
+
+
+
+NURAY KORKMAZ CAN
+10
+Publications
+2,069
+Reads
+95
+Citations
+Genetic Algorithm
+Sliding Mode Control
+Orthopedic Surgery
+Sports Medicine
+
+
+
+
+ŞULE KAPKIN 
+18
+Publications
+5,195
+Reads
+22
+Citations
+Fluid Flow
+Hydrogen Energy
+Fluid Mechanics
+Aerospace
+Composites
+Energy
+
+
+
+
+NAMIK AK
+10
+Publications
+10,439
+Reads
+163
+Citations
+Energy
+Energy Engineering
+Renewable Energy Technologies
+Energy Conservation
+Energy Conversion
+Energy Saving
+Power Generation
+Photovoltaics
+Energy Efficiency in Building
+Renewable Energy
+
+
+
+
+MURAD KUCUR
+6
+Publications
+422
+Reads
+4
+Citations
+Computational Fluid Dynamics
+Fluid Mechanics
+CFD Simulation
+Numerical Simulation
+Numerical Modeling
+Computational Fluid Mechanics
+Numerical Analysis
+Finite Difference
+Finite-Difference Schemes
+Computational Simulation
+
+
+
+
+SUZAN CANSEL DOĞRU
+16
+Publications
+8,253
+Reads
+111
+Citations
+Finite Element Analysis
+Mechanical Properties
+Finite Element Modeling
+FE Analysis
+Stress Analysis
+Mechanics of Materials
+Mechanical Testing
+CAD
+Experimental Mechanics
+Biomechanics
+
+
+
+
+AYDIN ÖZBEY
+19
+Publications
+2,584
+Reads
+170
+Citations
+Mathematical Modelling
+Control Theory
+System Modeling
+Modeling and Simulation
+Engineering, Applied and Computational Mathematics
+Numerical Analysis
+Mathematical Analysis
+MATLAB Simulation
+Robotics
+Automation & Robotics
+
+
+
+
+YENER TAŞKIN
+22
+Publications
+6,443
+Reads
+275
+Citations
+Mechatronics
+Control Theory
+Robotics
+Automation & Robotics
+Advanced Control Theory
+MATLAB Simulation
+Systems Dynamics
+System Modeling
+Automation
+Control and Instrumentation
+
+
+
+
+ÖMÜR CAN ÖZGÜNEY
+16
+Publications
+4,359
+Reads
+31
+Citations
+Vibration Analysis
+Control Theory
+Robotics
+Automation & Robotics
+Dynamic Simulation
+Robot Motion Planning
+Robot Control
+System Dynamics Modeling
+
+
+
+
+PAŞA YAYLA
+41
+Publications
+74,587
+Reads
+691
+Citations
+Mechanical Properties
+Mechanical Testing
+Material Characterization
+Materials
+Advanced Materials
+Materials Processing
+Materials Testing
+Stress Analysis
+Finite Element Analysis
+Polymers
+
+
+
+
+M. ZAFER GÜL
+48
+Publications
+9,427
+Reads
+353
+Citations
+Fluid Mechanics
+Computational Fluid Dynamics
+Numerical Simulation
+Numerical Modeling
+CFD Simulation
+Experimental Fluid Mechanics
+Turbulence Modeling
+Wind Tunnel Testing
+Combustion Analysis
+Mechanical Engineering
+
+
+
+
+EMRE ALPMAN
+58
+Publications
+24,163
+Reads
+414
+Citations
+Computational Fluid Dynamics
+Fluid Dynamics
+Turbulence Modeling
+Turbulent Flow
+Finite Volume Method
+Fluid Mechanics
+CFD Simulation
+
+
+
+
+Emre Alpman
+58
+Publications
+24,163
+Reads
+414
+Citations
+Computational Fluid Dynamics
+Fluid Dynamics
+Turbulence Modeling
+Turbulent Flow
+Finite Volume Method
+Fluid Mechanics
+CFD Simulation
+
+
+
+
+Ali Bahadır Olcay
+72
+Publications
+53,225
+Reads
+625
+Citations
+Fluid Mechanics
+Experimental Fluid Mechanics
+CFD Simulation
+Particle Image Velocimetry
+Computational Fluid Dynamics
+Energy Efficiency
+Aortic Valve
+Vortex
+Applied Thermodynamics
+Aneurysm
+
+
+
+
+Koray K. Şafak
+29
+Publications
+4,372
+Reads
+138
+Citations
+Biomechatronics
+Gait Analysis
+MATLAB
+Robotics
+Automatic Control
+Biomimetics
+Mechanical Engineering
+Legged Robots
+
+
+
+
+Nezih Topaloğlu
+17
+Publications
+2,575
+Reads
+111
+Citations
+Mechatronics
+Mechanical Engineering
+Finite Element Modeling
+Modeling and Simulation
+Simulation
+Electronic Engineering
+Modeling
+Heat Transfer
+Engineering, Applied and Computational Mathematics
+Sensors
+
+
+
+
+Fethi Okyar
+30
+Publications
+5,552
+Reads
+99
+Citations
+Finite Element Method
+Mechanical Design
+Materials
+Modeling
+Optimization
+Engineering, Applied and Computational Mathematics
+Fracture Mechanics
+Biomechanics
+Mechanical Engineering
+Finite Element Analysis
+
+
+
+
+Mohammad Amin Abdollahzadeh
+11
+Publications
+1,509
+Reads
+81
+Citations
+Analytical Modeling
+inverse finite element analyses
+Composite Material
+Finite Element Analysis
+iFEM-RZT
+Programming in Fortran
+ANSYS
+
+
+
+
+Namık Çıblak
+26
+Publications
+8,707
+Reads
+372
+Citations
+Robotics
+Analysis
+Automation & Robotics
+Control Theory
+Advanced Control Theory
+System Modeling
+Systems Dynamics
+Mechatronics
+Automation
+MATLAB Simulation
+
+
+
+
+Can Polat Çıgay
+1
+Publication
+26
+Reads
+0
+Citations
+Design Optimization
+Design Engineering
+CAD
+Finite Element Modeling
+Product Design and Development
+Engineering Drawing
+Manufacturing Process Mechanics
+Computer-Aided Engineering
+Mechanical Behavior of Materials
+Mechanics of Materials
+
+
+
+
+ Nurettin Yamankaradeniz  
+36
+Publications
+11,836
+Reads
+585
+Citations
+Heat Transfer
+Engineering Thermodynamics
+Energy
+Thermal Comfort
+Occupational Health and Safety
+
+
+
+
+Nurullah Arslanoğlu
+20
+Publications
+1,736
+Reads
+286
+Citations
+Heat Transfer
+Thermal Comfort
+Solar Energy
+Applied Thermodynamics
+
+
+
+
+Gökhan Ömeroğlu
+25
+Publications
+21,180
+Reads
+104
+Citations
+Renewable Energy
+Energy
+Renewable Energy Technologies
+Energy Engineering
+Energy Conversion
+Power Generation
+Photovoltaics
+Energy Saving
+Thermal Engineering
+Energy Efficiency in Building
+
+
+
+
+Kadir Bakırcı
+57
+Publications
+18,874
+Reads
+1,949
+Citations
+Solar Energy
+Solar Radiation
+Renewable Energy
+Sustainable Energy
+Renewable Energy Technologies
+Energy Conversion
+Energy Engineering
+Energy
+Energy Systems
+Solar
+
+
+
+
+Kenan Yakut
+39
+Publications
+16,058
+Reads
+747
+Citations
+Heat Exchangers
+Heat Transfer
+Fluid Mechanics
+Turbulence
+Vortex
+Convection
+Thermodynamics
+Mechanical Engineering
+Taguchi Method
+
+
+
+
+Doğan Çiloğlu
+21
+Publications
+3,475
+Reads
+373
+Citations
+Nanofluids
+Heat Transfer
+Thermal Engineering
+Engineering Thermodynamics
+Refrigeration & Air Conditioning
+
+
+
+
+Ahmet Numan Özakın
+13
+Publications
+15,488
+Reads
+58
+Citations
+Combustion Analysis
+Engineering Thermodynamics
+Thermal Engineering
+Fluid Mechanics
+Computational Fluid Dynamics
+Heat Exchangers
+Automobile Engineering
+Emission
+Applied Thermodynamics
+Energy Engineering
+
+
+
+
+Fadime Şimşek
+1
+Publication
+77
+Reads
+0
+Citations
+Fluid Mechanics
+CFD Simulation
+Engineering Thermodynamics
+Aerodynamics
+Rocket Propulsion
+Applied Thermodynamics
+Heat Exchangers
+Thermal Engineering
+
+
+
+
+Mehmet Fatih Şansveren
+5
+Publications
+908
+Reads
+25
+Citations
+Vibration Analysis
+Finite Element Method
+Vibration Testing
+Finite Element Analysis
+Finite Element Modeling
+Structural Vibration
+Modal Analysis
+Dynamic Analysis
+Structural Dynamics
+Dynamics
+
+
+
+
+Derek K. Baker
+51
+Publications
+13,369
+Reads
+899
+Citations
+Renewable Energy Technologies
+Energy Engineering
+Energy Modeling
+Energy Conversion
+Thermal Engineering
+Engineering Thermodynamics
+Energy Utilization
+Energy Saving
+Energy Conservation
+Solar Radiation
+
+
+
+
+Özgür Uğraş Baran
+20
+Publications
+4,231
+Reads
+96
+Citations
+Computational Fluid Dynamics
+Fluid Mechanics
+CFD Simulation
+Turbulence
+Numerical Simulation
+Computational Fluid Mechanics
+Numerical Modeling
+Engineering, Applied and Computational Mathematics
+FLUENT
+Aerodynamics
+
+
+
+
+Hakan Çalışkan
+11
+Publications
+2,009
+Reads
+203
+Citations
+Numerical Modeling
+Actuators
+Simulink
+Kalman Filtering
+Controller Design
+Mechanical Engineering
+Prediction
+Mechatronics
+Estimation
+
+
+
+
+Ender Ciğeroğlu
+127
+Publications
+30,234
+Reads
+1,015
+Citations
+Structural Dynamics
+Dynamic Analysis
+Nonlinear Analysis
+Structural Analysis
+Mechanical Engineering
+Finite Element Analysis
+Structural Vibration
+Finite Element Modeling
+Modal Analysis
+Mechanics of Materials
+
+
+
+
+Hüsnü Dal
+88
+Publications
+40,566
+Reads
+1,380
+Citations
+Biomaterials
+Tissue Engineering
+Engineering, Applied and Computational Mathematics
+Fracture Mechanics
+Composites
+Polymerization
+Polymers
+Materials
+Modeling
+Fracture
+
+
+
+
+Haluk Darendeliler
+41
+Publications
+5,679
+Reads
+421
+Citations
+Solid Mechanics
+
+
+
+
+Zafer Dursunkaya
+64
+Publications
+7,205
+Reads
+728
+Citations
+Interferometry
+Condensation
+Internal Combustion Engines
+Applied Optics
+Thermal Engineering
+Fluid Mechanics
+Thermal Management
+Numerical Simulation
+Modeling and Simulation
+
+
+
+
+Ali Karakuş
+32
+Publications
+8,161
+Reads
+296
+Citations
+Fluid Mechanics
+Computational Fluid Dynamics
+Numerical Simulation
+Numerical Modeling
+Numerical Analysis
+Aerodynamics
+Engineering, Applied and Computational Mathematics
+Mathematical Modelling
+Modeling and Simulation
+CFD Simulation
+
+
+
+
+Feyza Kazanç
+29
+Publications
+3,414
+Reads
+491
+Citations
+Particulate Matter
+Environment
+Emission
+Nitrogen
+Air Quality
+Atmospheric Pollution
+Air Pollution Studies
+Air Sampling
+Biomass Burning
+Waste Heat Recovery
+
+
+
+
+Sezer Özerinç
+50
+Publications
+7,339
+Reads
+1,040
+Citations
+Microscale Mechanical Characterization
+Irradiation Induced Creep
+Heat Transfer Enhancement with Nanofluids
+Nanofluids
+Thermal Conductivity
+Materials Engineering
+Mechanical Engineering
+
+
+
+
+Onur Taylan
+38
+Publications
+14,010
+Reads
+658
+Citations
+Monte Carlo Simulation
+Radiation
+Simulation
+Numerical Modeling
+Heat Transfer
+Finite Element Method
+Adsorption
+Mechanical Engineering
+Engineering Thermodynamics
+Fluid Mechanics
+
+
+
+
+Ergin Tönük
+52
+Publications
+16,870
+Reads
+713
+Citations
+Biomechanics
+Solid Mechanics
+Finite Element Analysis
+Material Characterization
+Mechanical Testing
+Mechanics of Materials
+Mechanical Behavior of Materials
+Finite Element Modeling
+FE Analysis
+Nonlinear Analysis
+
+
+
+
+Ender Yıldırım
+43
+Publications
+11,735
+Reads
+340
+Citations
+Finite Element Analysis
+Fluid Mechanics
+Computational Fluid Dynamics
+Finite Element Modeling
+Numerical Analysis
+Microfluidics
+Fluorescence Imaging
+Microfabrication
+Fabrication
+Photolithography
+
+
+
+
+Mustafa ASKER
+30
+Publications
+13,923
+Reads
+197
+Citations
+Computational Fluid Dynamics
+Numerical Simulation
+CFD Simulation
+Thermal Engineering
+Numerical Modeling
+Fluid Mechanics
+Computational Fluid Mechanics
+Numerical Analysis
+Turbulence
+Engineering Thermodynamics
+
+
+
+
+Hilmi Saygın SUCUOĞLU
+11
+Publications
+1,866
+Reads
+73
+Citations
+Mechanical Properties
+Mechanical Behavior of Materials
+Mechanical Testing
+Materials Processing
+CAD
+Design Engineering
+Finite Element Analysis
+Finite Element Modeling
+Materials
+Product Design and Development
+
+
+
+
+Turgay ERAY
+21
+Publications
+688
+Reads
+38
+Citations
+Dynamic Analysis
+Nonlinear Analysis
+Structural Vibration
+Structural Dynamics
+Vibration Analysis
+Finite Element Analysis
+Structural Analysis
+Modal Analysis
+FE Analysis
+Dynamics
+
+
+
+
+ERTAN BAYDAR
+14
+Publications
+4,549
+Reads
+337
+Citations
+Heat Transfer
+Turbulence
+Computational Fluid Dynamics
+CFD Simulation
+Fluid Mechanics
+Experimental Fluid Mechanics
+FLUENT
+Engineering Thermodynamics
+Aerodynamics
+Thermal Engineering
+
+
+
+
+BURHAN ÇUHADAROĞLU
+39
+Publications
+9,234
+Reads
+295
+Citations
+Fluid Mechanics
+Computational Fluid Dynamics
+Urban Planning
+Air Pollution
+Air Pollution Modeling
+Turbulent Flow
+Heat Transfer
+Turbulence Modeling
+Numerical Simulation
+CFD Simulation
+
+
+
+
+RECEP GÜMRÜK
+48
+Publications
+6,450
+Reads
+737
+Citations
+Dynamics
+Finite Element Modeling
+Finite Element Method
+Finite Element Analysis
+Applied Mechanics
+Computational Structural Mechanics
+Mechanics of Materials
+
+
+
+
+HASAN SOFUOĞLU
+43
+Publications
+26,630
+Reads
+739
+Citations
+Finite Element Analysis
+Biomechanics
+Thin Films and Nanotechnology
+Finite Element Modeling
+Mechanical Properties
+Mechanical Behavior of Materials
+Stress Analysis
+Mechanics of Materials
+Mechanical Testing
+Materials
+
+
+
+
+Vebil YILDIRIM
+86
+Publications
+11,001
+Reads
+1,190
+Citations
+Finite Element Analysis
+FE Analysis
+Finite Element Modeling
+Mechanical Engineering
+Composites
+Dynamics
+Nonlinear Analysis
+Stress Analysis
+Coding
+Structural Dynamics
+
+
+
+
+Orhan BÜYÜKALACA
+61
+Publications
+19,399
+Reads
+1,993
+Citations
+Energy
+Refrigeration & Air Conditioning
+Renewable Energy Technologies
+Energy Engineering
+Energy Conversion
+Thermal Engineering
+Engineering Thermodynamics
+Heat Exchangers
+
+
+
+
+Melih BAYRAMOĞLU
+57
+Publications
+29,983
+Reads
+529
+Citations
+Machining
+Welding
+Taguchi Method
+Mechanical Design
+CNC Machining
+Mechanical Properties
+Mechanical Behavior of Materials
+Mechanical Testing
+Materials Processing
+
+
+
+
+Necdet GEREN
+118
+Publications
+111,765
+Reads
+424
+Citations
+Automation & Robotics
+Automation
+Mechanical Engineering
+Machining
+Robotics
+Designing
+Mechatronics
+MATLAB Simulation
+Control Theory
+Product Design and Development
+
+
+
+
+Dilek KUMLUTAŞ
+22
+Publications
+5,535
+Reads
+919
+Citations
+Energy
+Numerical Heat Transfer
+Fluid Flow
+
+
+
+
+Alpaslan TURGUT
+96
+Publications
+39,396
+Reads
+1,884
+Citations
+Heat Transfer
+Thermal Engineering
+Engineering Thermodynamics
+Heat Exchangers
+Mechanical Engineering
+Electronics
+Experimental Fluid Mechanics
+Applied Thermodynamics
+Composites
+Nanoparticles
+
+
+
+
+Zeki KIRAL
+49
+Publications
+24,764
+Reads
+580
+Citations
+Finite Element Analysis
+Finite Element Modeling
+Structural Analysis
+FE Analysis
+Dynamic Analysis
+Computer-Aided Engineering
+Structural Dynamics
+Solid Mechanics
+Stress Analysis
+Mechanics of Materials
+
+
+
+
+Levent MALGACA
+58
+Publications
+10,033
+Reads
+534
+Citations
+Finite Element Modeling
+Modal Analysis
+Vibration Analysis
+Structural Vibration
+Vibration Testing
+Finite Element Analysis
+Structural Dynamics
+Dynamic Analysis
+Sensors
+Mathematical Modelling
+
+
+
+
+Şahin YAVUZ
+35
+Publications
+9,394
+Reads
+241
+Citations
+Finite Element Analysis
+Design Engineering
+Finite Element Modeling
+Structural Analysis
+Structural Dynamics
+CAD
+Computer-Aided Engineering
+Engineering, Applied and Computational Mathematics
+Dynamic Analysis
+Robotics
+
+
+
+
+Ramazan KARAKUZU
+90
+Publications
+39,209
+Reads
+2,486
+Citations
+Mechanical Properties
+Mechanics of Materials
+Failure Analysis
+Stress Analysis
+FE Analysis
+Laminated Composites
+Composites
+
+
+
+
+Binnur GÖREN KIRAL
+46
+Publications
+7,276
+Reads
+669
+Citations
+Computer-Aided Engineering
+Finite Element Analysis
+Stress Analysis
+Finite Element Modeling
+Mechanical Properties
+Solid Mechanics
+Mechanics of Materials
+FE Analysis
+Dynamics
+Mechanical Behavior of Materials
+
+
+
+
+Aytunç EREK
+50
+Publications
+8,042
+Reads
+1,251
+Citations
+Heat Transfer
+Energy
+Fluid Mechanics
+Thermal Engineering
+Computational Fluid Dynamics
+Numerical Modeling
+Computational Fluid Mechanics
+Heat Exchangers
+Mechanical Engineering
+Pcm
+
+
+
+
+Mustafa Serhan KÜÇÜKA
+28
+Publications
+5,368
+Reads
+139
+Citations
+Refrigeration & Air Conditioning
+Heat Transfer
+Energy Conservation
+Thermal Engineering
+Engineering Thermodynamics
+Heating Ventilation and Air-Conditioning
+
+
+
+
+Mehmet Akif EZAN
+109
+Publications
+33,548
+Reads
+1,131
+Citations
+Thermal Engineering
+Computational Fluid Dynamics
+Phase Change Materials
+Thermal Energy Storage
+
+
+
+
+Ramazan KAYACAN
+22
+Publications
+3,640
+Reads
+343
+Citations
+Machines
+
+
+
+
+Remzi VAROL
+58
+Publications
+12,924
+Reads
+872
+Citations
+Mechanical Processes
+Mechanical Properties
+Mechanical Behavior of Materials
+Mechanical Testing
+Materials Processing
+Materials
+Material Characterization
+Materials Testing
+Microstructure
+Design Engineering
+
+
+
+
+Ertuğrul DURAK
+30
+Publications
+8,896
+Reads
+277
+Citations
+Design Engineering
+Mechanical Properties
+Materials
+Material Characterization
+Mechanical Behavior of Materials
+Mechanical Testing
+Microstructure
+Advanced Materials
+Materials Processing
+Materials Testing
+
+
+
+
+Mehmet Cengiz KAYACAN
+38
+Publications
+16,202
+Reads
+717
+Citations
+Modeling
+Optimization
+
+
+
+
+Mustafa Reşit USAL
+50
+Publications
+17,291
+Reads
+254
+Citations
+Finite Element Analysis
+Materials
+Microstructure
+Mechanical Properties
+Material Characterization
+Mechanical Behavior of Materials
+Mechanics of Materials
+Mechanical Testing
+Finite Element Modeling
+Stress Analysis
+
+
+
+
+Ayşe ÖNDÜRÜCÜ
+33
+Publications
+3,936
+Reads
+79
+Citations
+Solid Mechanics
+
+
+
+
+Recai Fatih TUNAY
+23
+Publications
+6,532
+Reads
+78
+Citations
+Tribology
+Mechanical Properties
+Mechanical Testing
+Mechanical Engineering
+Materials Engineering
+Mechanical Behavior of Materials
+Sintering
+Materials
+Powders
+Material Characterization
+
+
+
+
+Ergin KILIÇ
+31
+Publications
+5,739
+Reads
+215
+Citations
+Mechatronics
+System Modeling
+Neural Networks
+Control Systems
+CNC Machining
+Controller Design
+Sensors
+Actuators
+Estimation
+Control Systems Engineering
+
+
+
+
+Mehmet KAN
+11
+Publications
+5,327
+Reads
+53
+Citations
+Energy Management
+Renewable Energy Technologies
+Energy Conversion
+Energy Engineering
+Power Generation
+Energy Saving
+Renewable Energy and Environment Protection
+
+
+
+
+Hasbi KIZILHAN
+10
+Publications
+2,686
+Reads
+85
+Citations
+Biomechanical Engineering
+Biomechanics
+Gait Analysis
+
+
+
+
+Mustafa Bakkal
+94
+Publications
+29,007
+Reads
+1,269
+Citations
+Bulk Metallic Glasses
+Mechanical Engineering
+Machining
+Mechanical Properties
+Materials
+Machine Tools
+Lubrication
+
+
+
+
+Cemal Baykara
+25
+Publications
+7,307
+Reads
+108
+Citations
+Materials
+Artificial Neural Networks
+Mechanical Properties
+Mechanics of Materials
+Mechanical Behavior of Materials
+
+
+
+
+Yakup Erhan Böke
+63
+Publications
+48,820
+Reads
+229
+Citations
+Thermal Comfort
+Computational Fluid Dynamics
+Coal Combustion
+Combustion
+Power Plants
+Photovoltaic Systems
+Gasification
+Applied Thermodynamics
+
+
+
+
+Tahsin Engin
+58
+Publications
+34,953
+Reads
+1,395
+Citations
+Heat Exchangers
+Engineering Thermodynamics
+Thermal Engineering
+CFD Simulation
+Fluid Mechanics
+Computational Fluid Dynamics
+Energy Engineering
+Numerical Simulation
+FLUENT
+Mechanical Engineering
+
+
+
+
+Hikmet Kocabaş
+20
+Publications
+11,084
+Reads
+143
+Citations
+Structural Analysis
+Finite Element Modeling
+Solid Mechanics
+Stress Analysis
+Dynamic Analysis
+Computer-Aided Engineering
+Design Optimization
+Design Engineering
+FE Analysis
+CAD
+
+
+
+
+Lütfullah Kuddusi
+28
+Publications
+8,318
+Reads
+699
+Citations
+Fluid Mechanics
+Computational Fluid Dynamics
+CFD Simulation
+Numerical Simulation
+Numerical Analysis
+Engineering Thermodynamics
+Thermal Engineering
+Modeling and Simulation
+Engineering, Applied and Computational Mathematics
+Applied Thermodynamics
+
+
+
+
+Levent Trabzon
+136
+Publications
+27,756
+Reads
+890
+Citations
+Biomechanics
+Biomaterials
+Materials
+Material Characterization
+Thin Film Deposition
+Nanomaterials
+Thin Films and Nanotechnology
+Nanomaterials Synthesis
+X-ray Diffraction
+Material Characteristics
+
+
+
+
+Murat Vural
+15
+Publications
+12,480
+Reads
+360
+Citations
+Mechanical Properties
+Mechanical Behavior of Materials
+Mechanical Testing
+Materials Processing
+Materials
+Material Characterization
+Advanced Materials
+Material Characteristics
+Mechanics of Materials
+SEM Analysis
+
+
+
+
+Şafak Yılmaz
+47
+Publications
+8,612
+Reads
+516
+Citations
+Materials
+Materials Engineering
+Mechanical Behavior of Materials
+Mechanical Properties
+Mechanical Testing
+Heat Treatment
+Mechanical Engineering
+Materials Technology
+Mechanics of Materials
+Materials Processing
+
+
+
+
+Atakan Altınkaynak
+27
+Publications
+28,288
+Reads
+254
+Citations
+Design with Polymers and Composites
+3D Printing and Rapid Prototyping
+Finite Element Method
+GPU Computing
+Engineering, Applied and Computational Mathematics
+Numerical Analysis Methods
+Radial Basis Functions
+Rotor Dynamics
+
+
+
+
+Sertaç Çadırcı
+78
+Publications
+27,314
+Reads
+359
+Citations
+Fluid Mechanics
+Numerical Simulation
+Turbulence
+Computational Fluid Dynamics
+CFD Simulation
+Numerical Modeling
+Computational Fluid Mechanics
+Aerodynamics
+Numerical Analysis
+Modeling and Simulation
+
+
+
+
+Murat Çakan
+21
+Publications
+5,511
+Reads
+433
+Citations
+Aerodynamics
+Fluid Mechanics
+Experimental Archaeology
+Experimental Fluid Mechanics
+Turbomachinery
+Thermal Engineering
+Wind Tunnel Modeling
+Convection
+Heat Exchangers
+Thermal Conductivity
+
+
+
+
+Ali Gökşenli
+26
+Publications
+4,872
+Reads
+267
+Citations
+Failure Analysis
+
+
+
+
+Levent Ali Kavurmacıoğlu
+52
+Publications
+14,260
+Reads
+349
+Citations
+Aeronautical Engineering
+Aerodynamics
+Computational Fluid Dynamics
+Mechanical Engineering
+Fluid Flow
+Heat & Mass Transfer
+CFD Simulation
+Turbomachinery
+Fluid Mechanics
+Vortex
+
+
+
+
+Ayhan Kural
+2
+Publications
+315
+Reads
+24
+Citations
+Model Predictive Control
+Controller Design
+System Identification
+Control Theory
+Advanced Control Theory
+System Modeling
+System Dynamics Modeling
+
+
+
+
+Senem Kurşun
+72
+Publications
+41,969
+Reads
+967
+Citations
+Fuzzy Logic
+Data Acquisition
+Applied Artificial Intelligence
+Sensor Technology
+Electronic Instrumentation
+Neural Networks and Artificial Intelligence
+Sensor Development
+Control and Instrumentation
+Signal Processing
+Wearable Computing
+
+
+
+
+Osman Taha Şen
+28
+Publications
+1,451
+Reads
+60
+Citations
+Mathematical Modelling
+Nonlinear Dynamics
+Stability Analysis
+Modeling and Simulation
+
+
+
+
+Abdussamet Subaşı
+26
+Publications
+9,616
+Reads
+186
+Citations
+Computational Fluid Dynamics
+CFD Simulation
+Engineering Thermodynamics
+Fluid Mechanics
+Aerodynamics
+Numerical Simulation
+Modeling and Simulation
+Numerical Modeling
+Numerical Analysis
+Engineering, Applied and Computational Mathematics
+
+
+
+
+Adil Yücel
+1
+Publication
+44
+Reads
+3
+Citations
+Finite Element Analysis
+Modal Analysis
+Structural Vibration
+Vibration Analysis
+Structural Dynamics
+Finite Element Modeling
+Structural Analysis
+Stress Analysis
+Solid Mechanics
+Mechanics of Materials
+
+
+
+
+Hikmet Arslan
+22
+Publications
+14,578
+Reads
+166
+Citations
+Emission
+Mechanical Engineering
+Diesel Engines
+Internal combustion engine
+
+
+
+
+Alper Tolga Çalık
+10
+Publications
+7,790
+Reads
+213
+Citations
+Internal Combustion Engines
+Solar Power
+Renewable Energy
+Energy Engineering
+Energy Conversion
+Renewable Energy Technologies
+NOX
+Emission
+Combustion Analysis
+
+
+
+
+Barış Doğru
+12
+Publications
+11,454
+Reads
+39
+Citations
+Emission
+Combustion Analysis
+Automobile Engineering
+Energy Conversion
+Car
+Combustion
+Automotive
+Simulation Engineering
+Control Systems Engineering
+Diesel Engines
+
+
+
+
+Uğurcan Eroğlu
+36
+Publications
+7,345
+Reads
+277
+Citations
+Solid Mechanics
+Computational Mechanics
+Continuum Mechanics
+Finite Element Analysis
+Applied Mechanics
+Vibration Analysis
+Structural Dynamics
+Structural Stability
+Fracture Mechanics
+Nanomechanics
+
+
+
+
+Alaeddin Burak İrez
+44
+Publications
+3,336
+Reads
+196
+Citations
+Mechanical Behavior of Materials
+Mechanical Properties
+Material Characterization
+Mechanics of Materials
+Fracture Mechanics
+Advanced Materials
+SEM Analysis
+Wear Testing
+Nanomechanics
+Mechanical Testing
+
+
+
+
+İbrahim Mehmet Palabıyık
+11
+Publications
+818
+Reads
+380
+Citations
+Plastics
+
+
+
+
+Necmi Aydın Ünverdi
+8
+Publications
+407
+Reads
+1
+Citation
+Sensors
+
+
+
+
+Mümin ŞAHİN
+43
+Publications
+11,535
+Reads
+1,175
+Citations
+Mechanical Properties
+Microstructure
+Mechanical Behavior of Materials
+Mechanical Testing
+Materials Processing
+Materials
+Material Characterization
+Advanced Materials
+Material Characteristics
+Mechanics of Materials
+
+
+
+
+Semiha ÖZTUNA
+23
+Publications
+2,484
+Reads
+496
+Citations
+Nanofluids
+Thermal Conductivity
+Alternative Energy Sources
+Energy Saving
+Heat Exchangers
+Thermal Engineering
+Fluid Mechanics
+Energy Conversion
+Renewable Energy Technologies
+Energy Efficiency in Building
+
+
+
+
+Oktay HACIHAFIZOĞLU
+24
+Publications
+2,474
+Reads
+392
+Citations
+Energy
+Energy Conversion
+Power Generation
+Thermal Engineering
+Refrigeration & Air Conditioning
+Refrigeration
+Heat Exchangers
+
+
+
+
+Hilmi KUŞÇU
+39
+Publications
+58,291
+Reads
+158
+Citations
+PLC
+Industrial Automation
+SCADA
+PLC Programming
+Automation
+Control Theory
+Automation & Robotics
+Mechatronics
+Robotics
+
+
+
+
+Vedat TAŞKIN
+18
+Publications
+11,333
+Reads
+747
+Citations
+Composites
+Mechanical Behavior of Materials
+Vibration Analysis
+Vibration
+BEAM
+Foam
+Joining
+Materials Design
+
+
+
+
+Çiğdem SUSANTEZ
+31
+Publications
+1,752
+Reads
+64
+Citations
+Heat Transfer
+Fluid Mechanics
+Computational Fluid Dynamics
+Numerical Modeling
+Thermal Engineering
+Engineering Thermodynamics
+Numerical Simulation
+CFD Simulation
+Computational Fluid Mechanics
+Turbulence
+
+
+
+
+Fatih KARAÇAM
+8
+Publications
+431
+Reads
+22
+Citations
+Mechanics of Materials
+Solid Mechanics
+Mechanical Behavior of Materials
+Structural Analysis
+Computational Mechanics
+Computational Structural Mechanics
+Computational Engineering
+Structural Optimization
+
+
+
+
+Pınar Aydan DEMİRHAN
+8
+Publications
+1,775
+Reads
+156
+Citations
+Finite Element Analysis
+Design Engineering
+Finite Element Modeling
+Stress Analysis
+Materials
+Mechanical Behavior of Materials
+Mechanics of Materials
+Mechanical Properties
+Mechanical Testing
+Structural Analysis
+
+
+
+
+Tolga AKSENCER
+8
+Publications
+793
+Reads
+369
+Citations
+Mechanical Properties
+Mechanical Behavior of Materials
+Solid Mechanics
+Mechanics of Materials
+Computational Solid Mechanics
+Plating
+Materials Engineering
+Mechanical Engineering
+Composites
+Elasticity
+
+
+
+
+Ubade KEMERLİ
+11
+Publications
+3,202
+Reads
+41
+Citations
+Fluid Mechanics
+CFD Simulation
+Numerical Simulation
+FLUENT
+Engineering Thermodynamics
+Thermal Engineering
+Convection
+Turbomachinery
+Heat Exchangers
+Refrigeration & Air Conditioning
+
+
+
+
+Erol Türkeş
+23
+Publications
+8,202
+Reads
+444
+Citations
+Mobile Robotics
+Robotics
+Robot Motion Planning
+Mechatronics
+Control Theory
+System Modeling
+MATLAB Simulation
+Systems Dynamics
+System Dynamics Modeling
+Mechanical Vibrations
+
+
+
+
+Sencer Süreyya KARABEYOĞLU
+38
+Publications
+11,084
+Reads
+81
+Citations
+Machines
+Wear Testing
+Tribology
+Surface Engineering
+Friction
+
+
+
+
+Yılmaz KÜÇÜK
+32
+Publications
+4,470
+Reads
+371
+Citations
+Nanoindentation
+Mechanical Properties
+Material Characterization
+Materials
+Mechanical Behavior of Materials
+Coating
+Metals
+Tribology
+Coating Technology
+Wear Testing
+
+
+
+
+Volkan KIRMACI
+43
+Publications
+3,081
+Reads
+886
+Citations
+Energy
+Energy Conversion
+Thermal Engineering
+Energy Conservation
+Refrigeration & Air Conditioning
+Refrigeration
+
+
+
+
+Bilal KURŞUNCU
+32
+Publications
+7,001
+Reads
+482
+Citations
+Machining
+Design Engineering
+Mechanical Behavior of Materials
+Mechanical Properties
+Mechanical Testing
+Manufacturing Process Mechanics
+Mechanical Processes
+Mechanical Engineering
+Finite Element Analysis
+Mechanics of Materials
+
+
+
+
+Derviş ÖZKAN
+25
+Publications
+16,894
+Reads
+238
+Citations
+Materials Science
+
+
+
+
+Mahir GÜLEN
+20
+Publications
+3,137
+Reads
+425
+Citations
+Material Characterization
+Nanomaterials
+SEM Analysis
+Material Characteristics
+XRD Analysis
+Nanofabrication
+Nanomaterials Synthesis
+Nanoscience
+Advanced Materials
+Materials Processing
+
+
+
+
+Ferhat SADAK
+21
+Publications
+4,459
+Reads
+157
+Citations
+Medical Robotics
+Automation & Robotics
+Computer Vision
+Visual Servoing
+Deep Learning
+MATLAB
+Python
+Robot Vision
+Artificial Neural Networks
+
+
+
+
+Emre ALTAŞ
+16
+Publications
+3,606
+Reads
+68
+Citations
+Mechanical Behavior of Materials
+Material Characterization
+Mechanical Testing
+Materials
+
+
+
+
+Vahap NECCAROĞLU
+2
+Publications
+31
+Reads
+0
+Citations
+Mechanical Properties
+Design Engineering
+Mechanical Behavior of Materials
+Mechanical Testing
 
 

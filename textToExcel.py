@@ -1,7 +1,7 @@
 import openpyxl
 
-txt_dosya_yolu = "C:/Users/Cengiz/Desktop/ResearchGate/ResearchGatePullData/veriler.txt"
-excel_dosya_yolu = "C:/Users/Cengiz/Desktop/ResearchGate/ResearchGatePullData/veri.xlsx"
+txt_dosya_yolu = "C:/Users/Cengiz/Desktop/Veri Madenciliği/ResearchGate/ResearchGatePullData/veriler.txt"
+excel_dosya_yolu = "C:/Users/Cengiz/Desktop/Veri Madenciliği/ResearchGate/ResearchGatePullData/veri.xlsx"
 
 # Txt dosyasını oku
 with open(txt_dosya_yolu, "r", encoding="utf-8") as file:
@@ -35,9 +35,10 @@ for veri_seti in veri_setleri:
     publications = veri_seti[1]
     reads = veri_seti[3]
     citations = veri_seti[5]
+    skills = veri_seti[7:]  # Yetenekleri al
 
     if not basliklar_eklendi:  # Başlıklar henüz eklenmediyse ekle
-        basliklar = ["Name", "Publications", "Reads", "Citations"]
+        basliklar = ["Name", "Publications", "Reads", "Citations"] + [f"S{i}" for i in range(1, len(skills) + 1)]
         worksheet.append(basliklar)
         basliklar_eklendi = True
 
@@ -48,7 +49,9 @@ for veri_seti in veri_setleri:
         'Citations': citations
     }
 
-    row = [veri['Name'], veri['Publications'], veri['Reads'], veri['Citations']]
+    veri.update({f"S{i}": skill for i, skill in enumerate(skills, start=1)})  # Yetenekleri güncelle
+
+    row = [veri['Name'], veri['Publications'], veri['Reads'], veri['Citations']] + [veri[f"S{i}"] for i in range(1, len(skills) + 1)]
     worksheet.append(row)
 
 # Excel dosyasını kaydet

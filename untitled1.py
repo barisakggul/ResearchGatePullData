@@ -3,6 +3,8 @@ from selenium.webdriver.edge.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException
+import random
 import time
 
 # WebDriver hizmetini başlat (Edge için)
@@ -49,18 +51,22 @@ for person in names:
     )
     link_element1.click()
 
-    element = driver.find_element(By.XPATH, "/html/body/div/main/section[3]/div[1]/div[1]/div").text
-    
-   
-    with open("veriler.txt", "a", encoding="utf-8") as txt_file:
-        txt_file.write("\n\n")
-        txt_file.write(person + "\n")
-        txt_file.write(element + "\n")
-        txt_file.write("\n\n")
-        print(f"Veriler metin dosyasına eklenmiştir ({person}).")
+    try:
+        element = driver.find_element(By.XPATH, "/html/body/div/main/section[3]/div[1]/div[1]/div").text
+        element1 = driver.find_element(By.XPATH, "/html/body/div/main/section[3]/div[1]/div[3]/div[2]/div/div/div[2]").text
+
+        with open("veriler.txt", "a", encoding="utf-8") as txt_file:
+            txt_file.write("\n\n")
+            txt_file.write(person + "\n")
+            txt_file.write(element + "\n")
+            txt_file.write(element1 + "\n")
+            txt_file.write("\n\n")
+            print(f"Veriler metin dosyasına eklenmiştir ({person}).")
+            time.sleep(random.uniform(5, 10))  # Bu gecikme süresini ihtiyaca göre ayarlayın
+
+    except NoSuchElementException:
+        print(f"XPath'teki veri bulunamadı ({person}). Devam ediliyor...")
         driver.back()
-        
+        continue
 
-
-# Close the WebDriver
-driver.quit()
+    driver.back()
